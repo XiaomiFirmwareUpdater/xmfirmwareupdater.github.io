@@ -56,22 +56,22 @@ permalink: /hyperos/malachite/stable/OS3.0.309.0.WOOCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.6 GB</h5>
+                    <h5><b>Size: </b>7.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-23</h5>
+                    <h5><b>Release Date: </b>2026-10-08</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b06028b76cc05db9b726c11a5a983fec</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">45d08e712e0b7bda17f2d4b8ac45545a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WOOCNXM/malachite-ota_incremental-OS3.0.308.0.WOOCNXM-OS3.0.309.0.WOOCNXM-user-16.0-9b4a0d057a.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#malachite_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/malachite/stable/OS3.0.309.0.WOOCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.2 GB</h5>
+                    <h5><b>Size: </b>9.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-08</h5>
+                    <h5><b>Release Date: </b>2026-09-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">45d08e712e0b7bda17f2d4b8ac45545a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b06028b76cc05db9b726c11a5a983fec</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WOOCNXM/malachite-ota_incremental-OS3.0.308.0.WOOCNXM-OS3.0.309.0.WOOCNXM-user-16.0-9b4a0d057a.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.309.0.WOOCNXM/malachite-ota_full-OS3.0.309.0.WOOCNXM-user-16.0-45d08e712e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.309.0.WOOCNXM/malachite_images_OS3.0.309.0.WOOCNXM_20260923.0000.00_16.0_cn_b06028b76c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#malachite_2_changelog" data-toggle="collapse" role="button"

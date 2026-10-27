@@ -56,29 +56,29 @@ permalink: /hyperos/evergo/stable/OS1.0.1.0.TGBCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.2 GB</h5>
+                    <h5><b>Size: </b>3.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-02-06</h5>
+                    <h5><b>Release Date: </b>2024-02-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">869f7220f453add90d994bd5d2f3af77</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">30dc3f827167a1b6eeb1838deb1fe251</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/miui-blockota-evergo-V14.0.4.0.TGBCNXM-OS1.0.1.0.TGBCNXM-54b670d389-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#evergo_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="evergo_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="evergo_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to February 2024. Increased system security.<br>[Comprehensive refactoring]<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors</p>
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to February 2024. Increased system security.<br>[Comprehensive refactoring]<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>[Alive Design Philosophy]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/evergo/stable/OS1.0.1.0.TGBCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>3.8 GB</h5>
+                    <h5><b>Size: </b>5.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-02-26</h5>
+                    <h5><b>Release Date: </b>2024-02-06</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">30dc3f827167a1b6eeb1838deb1fe251</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">869f7220f453add90d994bd5d2f3af77</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/miui-blockota-evergo-V14.0.4.0.TGBCNXM-OS1.0.1.0.TGBCNXM-54b670d389-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.TGBCNXM/miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.TGBCNXM/evergo_images_OS1.0.1.0.TGBCNXM_20240206.0000.00_13.0_cn_869f7220f4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#evergo_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="evergo_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="evergo_2_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to February 2024. Increased system security.<br>[Comprehensive refactoring]<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>[Alive Design Philosophy]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors</p>
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to February 2024. Increased system security.<br>[Comprehensive refactoring]<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors</p>
                     </div>
                 </li>
             </ul>

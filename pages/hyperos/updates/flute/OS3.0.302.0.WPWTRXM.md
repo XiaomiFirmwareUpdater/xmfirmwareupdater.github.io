@@ -56,22 +56,22 @@ permalink: /hyperos/flute/stable/OS3.0.302.0.WPWTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.5 GB</h5>
+                    <h5><b>Size: </b>5.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-11</h5>
+                    <h5><b>Release Date: </b>2026-08-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6d2ef67030180db5b53084cba1133a5c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c402f54277e0f62c6f3be9be12b9c518</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_incremental-OS3.0.301.0.WPWTRXM-OS3.0.302.0.WPWTRXM-user-16.0-b90415c586.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#flute_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/flute/stable/OS3.0.302.0.WPWTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.2 GB</h5>
+                    <h5><b>Size: </b>6.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-21</h5>
+                    <h5><b>Release Date: </b>2026-08-11</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c402f54277e0f62c6f3be9be12b9c518</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6d2ef67030180db5b53084cba1133a5c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_incremental-OS3.0.301.0.WPWTRXM-OS3.0.302.0.WPWTRXM-user-16.0-b90415c586.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global-ota_full-OS3.0.302.0.WPWTRXM-user-16.0-c402f54277.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WPWTRXM/flute_tr_global_images_OS3.0.302.0.WPWTRXM_20260811.0000.00_16.0_tr_6d2ef67030.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#flute_2_changelog" data-toggle="collapse" role="button"

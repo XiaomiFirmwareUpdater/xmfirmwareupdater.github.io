@@ -56,22 +56,22 @@ permalink: /hyperos/aristotle/stable/OS2.0.209.0.VMFRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.1 GB</h5>
+                    <h5><b>Size: </b>6.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-03-09</h5>
+                    <h5><b>Release Date: </b>2026-03-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">eadee18d7c03f42ec118222def4fe962</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8ebce986dd4d94630cf194cae39de318</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_incremental-OS2.0.207.0.VMFRUXM-OS2.0.209.0.VMFRUXM-user-15.0-05c32175d4.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#aristotle_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/aristotle/stable/OS2.0.209.0.VMFRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.0 GB</h5>
+                    <h5><b>Size: </b>8.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-03-19</h5>
+                    <h5><b>Release Date: </b>2026-03-09</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8ebce986dd4d94630cf194cae39de318</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">eadee18d7c03f42ec118222def4fe962</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_incremental-OS2.0.207.0.VMFRUXM-OS2.0.209.0.VMFRUXM-user-15.0-05c32175d4.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global-ota_full-OS2.0.209.0.VMFRUXM-user-15.0-8ebce986dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.209.0.VMFRUXM/aristotle_ru_global_images_OS2.0.209.0.VMFRUXM_20260309.0000.00_15.0_ru_eadee18d7c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#aristotle_2_changelog" data-toggle="collapse" role="button"

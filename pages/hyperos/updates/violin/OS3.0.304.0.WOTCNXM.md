@@ -56,22 +56,22 @@ permalink: /hyperos/violin/stable/OS3.0.304.0.WOTCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.7 GB</h5>
+                    <h5><b>Size: </b>8.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-07-21</h5>
+                    <h5><b>Release Date: </b>2026-07-30</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3249170f7a2ffba851b6117c4876ff06</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a2a26ab29ccf383e687790ed02d6e3ad</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WOTCNXM/violin-ota_incremental-OS3.0.303.0.WOTCNXM-OS3.0.304.0.WOTCNXM-user-16.0-539c4e6598.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#violin_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/violin/stable/OS3.0.304.0.WOTCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.4 GB</h5>
+                    <h5><b>Size: </b>9.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-07-30</h5>
+                    <h5><b>Release Date: </b>2026-07-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a2a26ab29ccf383e687790ed02d6e3ad</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3249170f7a2ffba851b6117c4876ff06</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WOTCNXM/violin-ota_incremental-OS3.0.303.0.WOTCNXM-OS3.0.304.0.WOTCNXM-user-16.0-539c4e6598.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WOTCNXM/violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WOTCNXM/violin-images-OS3.0.304.0.WOTCNXM-user-20260721.0000.00-16.0-cn-3249170f7a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#violin_2_changelog" data-toggle="collapse" role="button"

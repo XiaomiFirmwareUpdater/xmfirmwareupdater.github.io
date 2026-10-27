@@ -56,22 +56,22 @@ permalink: /hyperos/chagall/stable/OS3.0.311.0.WPTCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>11.0 GB</h5>
+                    <h5><b>Size: </b>8.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-09</h5>
+                    <h5><b>Release Date: </b>2026-09-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8b97c702f1909f30e4414b86d73602bc</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">29f4acccf1a6649b768fe4eb3e5e4cee</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPTCNXM/chagall-ota_incremental-OS3.0.310.0.WPTCNXM-OS3.0.311.0.WPTCNXM-user-16.0-dac462ba19.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#chagall_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/chagall/stable/OS3.0.311.0.WPTCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.4 GB</h5>
+                    <h5><b>Size: </b>11.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-24</h5>
+                    <h5><b>Release Date: </b>2026-09-09</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">29f4acccf1a6649b768fe4eb3e5e4cee</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8b97c702f1909f30e4414b86d73602bc</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPTCNXM/chagall-ota_incremental-OS3.0.310.0.WPTCNXM-OS3.0.311.0.WPTCNXM-user-16.0-dac462ba19.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.311.0.WPTCNXM/chagall-ota_full-OS3.0.311.0.WPTCNXM-user-16.0-29f4acccf1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.311.0.WPTCNXM/chagall_images_OS3.0.311.0.WPTCNXM_20260909.0000.00_16.0_cn_8b97c702f1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#chagall_2_changelog" data-toggle="collapse" role="button"

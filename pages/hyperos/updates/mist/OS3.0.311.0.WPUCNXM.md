@@ -56,22 +56,22 @@ permalink: /hyperos/mist/stable/OS3.0.311.0.WPUCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.6 GB</h5>
+                    <h5><b>Size: </b>5.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-15</h5>
+                    <h5><b>Release Date: </b>2026-08-20</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e548d30d2c79f7bc0b3d41ac3e5dacb7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d19f9040d8a761ab902eec83493675f2</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPUCNXM/mist-ota_incremental-OS3.0.310.0.WPUCNXM-OS3.0.311.0.WPUCNXM-user-16.0-634e2f51e9.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#mist_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/mist/stable/OS3.0.311.0.WPUCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.6 GB</h5>
+                    <h5><b>Size: </b>7.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-20</h5>
+                    <h5><b>Release Date: </b>2026-08-15</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d19f9040d8a761ab902eec83493675f2</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e548d30d2c79f7bc0b3d41ac3e5dacb7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPUCNXM/mist-ota_incremental-OS3.0.310.0.WPUCNXM-OS3.0.311.0.WPUCNXM-user-16.0-634e2f51e9.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.311.0.WPUCNXM/mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.311.0.WPUCNXM/mist_images_OS3.0.311.0.WPUCNXM_20260815.0000.00_16.0_cn_e548d30d2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#mist_2_changelog" data-toggle="collapse" role="button"

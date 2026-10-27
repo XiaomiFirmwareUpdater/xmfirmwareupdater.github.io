@@ -56,22 +56,22 @@ permalink: /hyperos/ishtar/stable/OS3.0.303.0.WMAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.4 GB</h5>
+                    <h5><b>Size: </b>7.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-21</h5>
+                    <h5><b>Release Date: </b>2026-09-04</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2a4dc9940f9a5696238beea8ac3155d3</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7c0dbcbf9f501522fdd6ae6afb6e2b3f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_incremental-OS3.0.302.0.WMAEUXM-OS3.0.303.0.WMAEUXM-user-16.0-e8550eed66.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/ishtar/stable/OS3.0.303.0.WMAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.0 GB</h5>
+                    <h5><b>Size: </b>8.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-04</h5>
+                    <h5><b>Release Date: </b>2026-08-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7c0dbcbf9f501522fdd6ae6afb6e2b3f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2a4dc9940f9a5696238beea8ac3155d3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_incremental-OS3.0.302.0.WMAEUXM-OS3.0.303.0.WMAEUXM-user-16.0-e8550eed66.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WMAEUXM/ishtar_eea_global_images_OS3.0.303.0.WMAEUXM_20260821.0000.00_16.0_eea_2a4dc9940f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#ishtar_2_changelog" data-toggle="collapse" role="button"

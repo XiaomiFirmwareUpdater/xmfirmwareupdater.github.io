@@ -56,22 +56,22 @@ permalink: /hyperos/fire/stable/OS2.0.204.0.VMXRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.0 GB</h5>
+                    <h5><b>Size: </b>4.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-07-21</h5>
+                    <h5><b>Release Date: </b>2026-07-27</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7a6c9b0d2da60b1ddbf5f0ebcea39f27</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c7a2423408cf03d55e16d2c4a4c6a84d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_incremental-OS2.0.203.0.VMXRUXM-OS2.0.204.0.VMXRUXM-user-15.0-2e428ed429.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#fire_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/fire/stable/OS2.0.204.0.VMXRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.5 GB</h5>
+                    <h5><b>Size: </b>7.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-07-27</h5>
+                    <h5><b>Release Date: </b>2026-07-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c7a2423408cf03d55e16d2c4a4c6a84d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7a6c9b0d2da60b1ddbf5f0ebcea39f27</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_incremental-OS2.0.203.0.VMXRUXM-OS2.0.204.0.VMXRUXM-user-15.0-2e428ed429.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global-ota_full-OS2.0.204.0.VMXRUXM-user-15.0-c7a2423408.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VMXRUXM/fire_ru_global_images_OS2.0.204.0.VMXRUXM_20260721.0000.00_15.0_ru_7a6c9b0d2d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#fire_2_changelog" data-toggle="collapse" role="button"

@@ -56,22 +56,22 @@ permalink: /hyperos/myron/stable/OS4.0.5.0.XPMCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>13.2 GB</h5>
+                    <h5><b>Size: </b>10.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-21</h5>
+                    <h5><b>Release Date: </b>2026-10-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6a7d5f8f042ff589d75b419c0750b1c9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e2d9be411c528f3c867e40138f9c5b58</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPMCNXM/myron-ota_incremental-OS4.0.4.0.XPMCNXM-OS4.0.5.0.XPMCNXM-user-17.0-ed9841d8ee.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#myron_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/myron/stable/OS4.0.5.0.XPMCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>10.2 GB</h5>
+                    <h5><b>Size: </b>13.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-23</h5>
+                    <h5><b>Release Date: </b>2026-10-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e2d9be411c528f3c867e40138f9c5b58</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6a7d5f8f042ff589d75b419c0750b1c9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPMCNXM/myron-ota_incremental-OS4.0.4.0.XPMCNXM-OS4.0.5.0.XPMCNXM-user-17.0-ed9841d8ee.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.5.0.XPMCNXM/myron-ota_full-OS4.0.5.0.XPMCNXM-user-17.0-e2d9be411c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.5.0.XPMCNXM/myron_images_OS4.0.5.0.XPMCNXM_20261021.0000.00_17.0_cn_6a7d5f8f04.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#myron_2_changelog" data-toggle="collapse" role="button"

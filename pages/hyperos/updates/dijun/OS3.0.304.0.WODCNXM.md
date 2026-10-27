@@ -56,22 +56,22 @@ permalink: /hyperos/dijun/stable/OS3.0.304.0.WODCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.8 GB</h5>
+                    <h5><b>Size: </b>7.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-21</h5>
+                    <h5><b>Release Date: </b>2026-09-28</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8f9d5e3a8cde9908b0bc361f8cca4a6b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">67dca2cb87b2fa4d46ec028b68bcfff2</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WODCNXM/dijun-ota_incremental-OS3.0.303.0.WODCNXM-OS3.0.304.0.WODCNXM-user-16.0-e6cde567dc.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dijun_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/dijun/stable/OS3.0.304.0.WODCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.5 GB</h5>
+                    <h5><b>Size: </b>9.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-28</h5>
+                    <h5><b>Release Date: </b>2026-09-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">67dca2cb87b2fa4d46ec028b68bcfff2</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8f9d5e3a8cde9908b0bc361f8cca4a6b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WODCNXM/dijun-ota_incremental-OS3.0.303.0.WODCNXM-OS3.0.304.0.WODCNXM-user-16.0-e6cde567dc.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WODCNXM/dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WODCNXM/dijun-images-OS3.0.304.0.WODCNXM-user-20260921.0000.00-16.0-cn-8f9d5e3a8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dijun_2_changelog" data-toggle="collapse" role="button"

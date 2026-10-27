@@ -56,22 +56,22 @@ permalink: /hyperos/kunzite/stable/OS3.0.304.0.WPQCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.5 GB</h5>
+                    <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-07-27</h5>
+                    <h5><b>Release Date: </b>2026-09-11</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2fc57457db811e776bbeaa400fe32830</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7334ee9929d9a7533c951b9037690edd</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPQCNXM/kunzite-ota_incremental-OS3.0.302.0.WPQCNXM-OS3.0.304.0.WPQCNXM-user-16.0-dfb0445039.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#kunzite_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/kunzite/stable/OS3.0.304.0.WPQCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.8 GB</h5>
+                    <h5><b>Size: </b>8.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-11</h5>
+                    <h5><b>Release Date: </b>2026-07-27</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7334ee9929d9a7533c951b9037690edd</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2fc57457db811e776bbeaa400fe32830</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPQCNXM/kunzite-ota_incremental-OS3.0.302.0.WPQCNXM-OS3.0.304.0.WPQCNXM-user-16.0-dfb0445039.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WPQCNXM/kunzite_images_OS3.0.304.0.WPQCNXM_20260727.0000.00_16.0_cn_2fc57457db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#kunzite_2_changelog" data-toggle="collapse" role="button"

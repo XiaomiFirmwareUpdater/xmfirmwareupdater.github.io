@@ -56,22 +56,22 @@ permalink: /hyperos/vermeer/stable/OS3.0.304.0.WNKMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>10.1 GB</h5>
+                    <h5><b>Size: </b>7.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-10</h5>
+                    <h5><b>Release Date: </b>2026-08-28</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ca1b62a8f5737affc201ae6d4a3c90e9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ea3932c8f86b1414412b9551791a48ce</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_incremental-OS3.0.303.0.WNKMIXM-OS3.0.304.0.WNKMIXM-user-16.0-183968b5ec.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/vermeer/stable/OS3.0.304.0.WNKMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.2 GB</h5>
+                    <h5><b>Size: </b>10.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-28</h5>
+                    <h5><b>Release Date: </b>2026-08-10</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ea3932c8f86b1414412b9551791a48ce</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ca1b62a8f5737affc201ae6d4a3c90e9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_incremental-OS3.0.303.0.WNKMIXM-OS3.0.304.0.WNKMIXM-user-16.0-183968b5ec.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WNKMIXM/vermeer_global_images_OS3.0.304.0.WNKMIXM_20260810.0000.00_16.0_global_ca1b62a8f5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_2_changelog" data-toggle="collapse" role="button"

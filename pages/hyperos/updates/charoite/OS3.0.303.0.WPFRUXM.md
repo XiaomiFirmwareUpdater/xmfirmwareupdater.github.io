@@ -56,22 +56,22 @@ permalink: /hyperos/charoite/stable/OS3.0.303.0.WPFRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.6 GB</h5>
+                    <h5><b>Size: </b>5.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-18</h5>
+                    <h5><b>Release Date: </b>2026-09-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d951d5e143eff7926d3e45a011aa8f2a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f7b7e5f74a1ebbbac1b2765ce051fb97</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_incremental-OS3.0.302.0.WPFRUXM-OS3.0.303.0.WPFRUXM-user-16.0-df40e50a0d.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#charoite_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/charoite/stable/OS3.0.303.0.WPFRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.9 GB</h5>
+                    <h5><b>Size: </b>9.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-26</h5>
+                    <h5><b>Release Date: </b>2026-09-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f7b7e5f74a1ebbbac1b2765ce051fb97</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d951d5e143eff7926d3e45a011aa8f2a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_incremental-OS3.0.302.0.WPFRUXM-OS3.0.303.0.WPFRUXM-user-16.0-df40e50a0d.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.303.0.WPFRUXM-user-16.0-f7b7e5f74a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WPFRUXM/charoite_ru_global_images_OS3.0.303.0.WPFRUXM_20260918.0000.00_16.0_ru_d951d5e143.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#charoite_2_changelog" data-toggle="collapse" role="button"

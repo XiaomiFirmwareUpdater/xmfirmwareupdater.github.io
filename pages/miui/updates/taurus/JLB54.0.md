@@ -56,29 +56,29 @@ permalink: /miui/taurus/stable/JLB54.0/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>470.8 MB</h5>
+                    <h5><b>Size: </b>334.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2015-04-12</h5>
+                    <h5><b>Release Date: </b>2015-04-27</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b8f40522ae5608eb2689daf6d241811b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">48f53d8c3dcce6a1c0bbfb1bc667f353</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#taurus_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="taurus_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="taurus_1_changelog">
-                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Fixed bugs</p>
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /miui/taurus/stable/JLB54.0/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>334.5 MB</h5>
+                    <h5><b>Size: </b>470.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2015-04-27</h5>
+                    <h5><b>Release Date: </b>2015-04-12</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">48f53d8c3dcce6a1c0bbfb1bc667f353</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b8f40522ae5608eb2689daf6d241811b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/JLB54.0/taurus_images_JLB54.0_4.1_cn_b8f40522ae.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#taurus_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="taurus_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="taurus_2_changelog">
-                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Fixed bugs</p>
                     </div>
                 </li>
             </ul>
