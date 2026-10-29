@@ -28746,6 +28746,12 @@
   version: OS1.0.6.0.UMQEUXM
 - android: '16.0'
   codename: taiko
+  date: '2026-10-29'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WOVCNXM/fw_taiko_taiko-ota_full-OS3.0.308.0.WOVCNXM-user-16.0-cc52cb1b2f.zip
+  name: Redmi Pad 2
+  version: OS3.0.308.0.WOVCNXM
+- android: '16.0'
+  codename: taiko
   date: '2025-11-28'
   download: https://bigota.d.miui.com/OS3.0.2.0.WOVCNXM/fw_taiko_taiko-ota_full-OS3.0.2.0.WOVCNXM-user-16.0-c3e8d7319b.zip
   name: Redmi Pad 2
