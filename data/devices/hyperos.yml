@@ -2964,6 +2964,12 @@
   version: OS1.0.7.0.UNUCNXM
 - android: '16.0'
   codename: brussels
+  date: '2026-10-29'
+  download: https://bigota.d.miui.com/OS3.0.309.0.WDREUXM/fw_brussels_brussels_eea_global-ota_full-OS3.0.309.0.WDREUXM-user-16.0-f88f6c3a5d.zip
+  name: Redmi Note 17 Pro Max 5G/POCO X8 Power
+  version: OS3.0.309.0.WDREUXM
+- android: '16.0'
+  codename: brussels
   date: '2026-08-27'
   download: https://bigota.d.miui.com/OS3.0.303.0.WDRMIXM/fw_brussels_brussels_global-ota_full-OS3.0.303.0.WDRMIXM-user-16.0-c691013cdd.zip
   name: Redmi Note 17 Pro Max 5G/POCO X8 Power
@@ -28744,6 +28750,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.6.0.UMQEUXM
+- android: '16.0'
+  codename: taiko
+  date: '2026-10-30'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOVEUXM/fw_taiko_taiko_eea_global-ota_full-OS3.0.304.0.WOVEUXM-user-16.0-123e0fd251.zip
+  name: Redmi Pad 2
+  version: OS3.0.304.0.WOVEUXM
+- android: '16.0'
+  codename: taiko
+  date: '2026-10-30'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WOVMIXM/fw_taiko_taiko_global-ota_full-OS3.0.305.0.WOVMIXM-user-16.0-9f10be35ea.zip
+  name: Redmi Pad 2
+  version: OS3.0.305.0.WOVMIXM
 - android: '16.0'
   codename: taiko
   date: '2026-10-29'

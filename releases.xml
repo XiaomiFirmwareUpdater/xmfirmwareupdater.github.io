@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 29 Oct 2026 23:56:59 </lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 06:47:01 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.305.0.WOVMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.304.0.WOVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.309.0.WDREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS3.0.6.0.VNQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
@@ -395,11 +410,6 @@
             <title>Redmi Note 15 4G (spinel) - OS3.0.303.0.WPGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spinel/</link>
             <pubDate>Sat, 10 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.307.0.WDREUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 15S Pro (dijun) - OS3.0.304.0.WODCNXM</title>
@@ -1434,16 +1444,6 @@
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.303.0.WOUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.304.0.WOVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.303.0.WOVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

@@ -1,4 +1,24 @@
 - branch: stable
+  date: '2026-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-30.10.2026/fw_taiko_taiko_eea_global-ota_full-OS3.0.304.0.WOVEUXM-user-16.0-123e0fd251.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_eea_global-ota_full-OS3.0.304.0.WOVEUXM-user-16.0-123e0fd251.zip
+  filename: fw_taiko_taiko_eea_global-ota_full-OS3.0.304.0.WOVEUXM-user-16.0-123e0fd251.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WOVEUXM
+- branch: stable
+  date: '2026-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-30.10.2026/fw_taiko_taiko_global-ota_full-OS3.0.305.0.WOVMIXM-user-16.0-9f10be35ea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_global-ota_full-OS3.0.305.0.WOVMIXM-user-16.0-9f10be35ea.zip
+  filename: fw_taiko_taiko_global-ota_full-OS3.0.305.0.WOVMIXM-user-16.0-9f10be35ea.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WOVMIXM
+- branch: stable
   date: '2026-10-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-29.10.2026/fw_taiko_taiko-ota_full-OS3.0.308.0.WOVCNXM-user-16.0-cc52cb1b2f.zip
