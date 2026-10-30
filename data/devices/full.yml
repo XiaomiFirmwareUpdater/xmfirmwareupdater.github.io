@@ -27569,6 +27569,16 @@
     android: '10.0'
     miui: V12.0.11.0.QCDMIXM
 - branch: stable
+  date: '2026-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-30.10.2026/fw_dash_dash-ota_full-OS4.0.3.0.XPLCNXM-user-17.0-672cb1447f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/dash/fw_dash_dash-ota_full-OS4.0.3.0.XPLCNXM-user-17.0-672cb1447f.zip
+  filename: fw_dash_dash-ota_full-OS4.0.3.0.XPLCNXM-user-17.0-672cb1447f.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.3.0.XPLCNXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-30.06.2026/fw_dash_dash_eea_global-ota_full-OS3.0.302.0.WPLEUXM-user-16.0-3f83e1c736.zip
@@ -53738,6 +53748,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2026-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-30.10.2026/fw_klee_klee-ota_full-OS4.0.3.0.XPJCNXM-user-17.0-3578778f20.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/klee/fw_klee_klee-ota_full-OS4.0.3.0.XPJCNXM-user-17.0-3578778f20.zip
+  filename: fw_klee_klee-ota_full-OS4.0.3.0.XPJCNXM-user-17.0-3578778f20.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.3.0.XPJCNXM
 - branch: stable
   date: '2026-09-08'
   downloads:

@@ -5074,6 +5074,12 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.301.0.WONCNXM-user-16.0-6a71af98ec.zip
   name: Redmi K80 Ultra
   version: OS3.0.301.0.WONCNXM
+- android: '17.0'
+  codename: dash
+  date: '2026-10-30'
+  download: https://bigota.d.miui.com/OS4.0.3.0.XPLCNXM/fw_dash_dash-ota_full-OS4.0.3.0.XPLCNXM-user-17.0-672cb1447f.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS4.0.3.0.XPLCNXM
 - android: '16.0'
   codename: dash
   date: '2026-09-08'
@@ -13456,6 +13462,12 @@
   download: https://bigota.d.miui.com/OS2.0.110.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip
   name: Xiaomi Pad 7 Ultra
   version: OS2.0.110.0.VOXCNXM
+- android: '17.0'
+  codename: klee
+  date: '2026-10-30'
+  download: https://bigota.d.miui.com/OS4.0.3.0.XPJCNXM/fw_klee_klee-ota_full-OS4.0.3.0.XPJCNXM-user-17.0-3578778f20.zip
+  name: Redmi Turbo 5/POCO X8 Pro
+  version: OS4.0.3.0.XPJCNXM
 - android: '16.0'
   codename: klee
   date: '2026-09-08'

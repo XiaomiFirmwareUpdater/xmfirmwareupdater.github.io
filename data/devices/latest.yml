@@ -1589,15 +1589,15 @@
     android: '16.0'
     miui: OS3.0.304.0.WPLMIXM
 - branch: stable
-  date: '2026-09-23'
+  date: '2026-10-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-23.09.2026/fw_dash_dash-ota_full-OS3.0.306.0.WPLCNXM-user-16.0-ef9a10c57c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash-ota_full-OS3.0.306.0.WPLCNXM-user-16.0-ef9a10c57c.zip
-  filename: fw_dash_dash-ota_full-OS3.0.306.0.WPLCNXM-user-16.0-ef9a10c57c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-30.10.2026/fw_dash_dash-ota_full-OS4.0.3.0.XPLCNXM-user-17.0-672cb1447f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/dash/fw_dash_dash-ota_full-OS4.0.3.0.XPLCNXM-user-17.0-672cb1447f.zip
+  filename: fw_dash_dash-ota_full-OS4.0.3.0.XPLCNXM-user-17.0-672cb1447f.zip
   region: China
   versions:
-    android: '16.0'
-    miui: OS3.0.306.0.WPLCNXM
+    android: '17.0'
+    miui: OS4.0.3.0.XPLCNXM
 - branch: stable
   date: '2026-10-21'
   downloads:
@@ -3209,15 +3209,15 @@
     android: '16.0'
     miui: OS3.0.308.0.WPJMIXM
 - branch: stable
-  date: '2026-09-14'
+  date: '2026-10-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-14.09.2026/fw_klee_klee-ota_full-OS3.0.307.0.WPJCNXM-user-16.0-f20ff285e4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee-ota_full-OS3.0.307.0.WPJCNXM-user-16.0-f20ff285e4.zip
-  filename: fw_klee_klee-ota_full-OS3.0.307.0.WPJCNXM-user-16.0-f20ff285e4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-30.10.2026/fw_klee_klee-ota_full-OS4.0.3.0.XPJCNXM-user-17.0-3578778f20.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/klee/fw_klee_klee-ota_full-OS4.0.3.0.XPJCNXM-user-17.0-3578778f20.zip
+  filename: fw_klee_klee-ota_full-OS4.0.3.0.XPJCNXM-user-17.0-3578778f20.zip
   region: China
   versions:
-    android: '16.0'
-    miui: OS3.0.307.0.WPJCNXM
+    android: '17.0'
+    miui: OS4.0.3.0.XPJCNXM
 - branch: stable
   date: '2026-09-08'
   downloads:

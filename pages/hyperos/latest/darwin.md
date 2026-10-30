@@ -52,9 +52,15 @@ permalink: /hyperos/darwin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X8s Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WETMIXM</td><td>16.0</td><td>11.3 GB</td><td>2026-10-19</td><td><a href="/hyperos/darwin/stable/OS3.0.305.0.WETMIXM/">Download</a></td></tr>
+                <tr><td>POCO X8s EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WETEUXM</td><td>16.0</td><td>10.3 GB</td><td>2026-10-22</td><td><a href="/hyperos/darwin/stable/OS3.0.306.0.WETEUXM/">Download</a></td></tr>
+<tr><td>POCO X8s EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WETEUXM</td><td>16.0</td><td>7.6 GB</td><td>2026-10-30</td><td><a href="/hyperos/darwin/stable/OS3.0.306.0.WETEUXM/">Download</a></td></tr>
+<tr><td>POCO X8s Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WETMIXM</td><td>16.0</td><td>11.3 GB</td><td>2026-10-19</td><td><a href="/hyperos/darwin/stable/OS3.0.305.0.WETMIXM/">Download</a></td></tr>
 <tr><td>POCO X8s Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WETMIXM</td><td>16.0</td><td>7.6 GB</td><td>2026-10-24</td><td><a href="/hyperos/darwin/stable/OS3.0.305.0.WETMIXM/">Download</a></td></tr>
 <tr><td>POCO X8s Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WETMIXM</td><td>16.0</td><td>7.6 GB</td><td>2026-10-23</td><td><a href="/hyperos/darwin/stable beta/OS3.0.302.0.WETMIXM/">Download</a></td></tr>
+<tr><td>POCO X8s Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WETRUXM</td><td>16.0</td><td>11.3 GB</td><td>2026-10-19</td><td><a href="/hyperos/darwin/stable/OS3.0.302.0.WETRUXM/">Download</a></td></tr>
+<tr><td>POCO X8s Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WETRUXM</td><td>16.0</td><td>7.5 GB</td><td>2026-10-30</td><td><a href="/hyperos/darwin/stable/OS3.0.302.0.WETRUXM/">Download</a></td></tr>
+<tr><td>POCO X8s Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WETTRXM</td><td>16.0</td><td>10.2 GB</td><td>2026-10-19</td><td><a href="/hyperos/darwin/stable/OS3.0.301.0.WETTRXM/">Download</a></td></tr>
+<tr><td>POCO X8s Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WETTRXM</td><td>16.0</td><td>7.6 GB</td><td>2026-10-30</td><td><a href="/hyperos/darwin/stable/OS3.0.301.0.WETTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
