@@ -52,8 +52,8 @@ permalink: /hyperos/warsaw/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K90 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.3.0.XHPCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-10-15</td><td><a href="/hyperos/warsaw/stable/OS4.0.3.0.XHPCNXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WHPCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-09-24</td><td><a href="/hyperos/warsaw/stable/OS3.0.309.0.WHPCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K90 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.6.0.XHPCNXM</td><td>17.0</td><td>11.9 GB</td><td>2026-10-28</td><td><a href="/hyperos/warsaw/stable/OS4.0.6.0.XHPCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS4.0.6.0.XHPCNXM</td><td>17.0</td><td>9.0 GB</td><td>2026-10-31</td><td><a href="/hyperos/warsaw/stable/OS4.0.6.0.XHPCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WHPCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-06-30</td><td><a href="/hyperos/warsaw/stable beta/OS3.0.302.0.WHPCNXM/">Download</a></td></tr>
 
                 </tbody>

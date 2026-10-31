@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 31 Oct 2026 04:05:18 </lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 12:41:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.33.0.VGWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS4.0.3.0.XPLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
@@ -709,11 +714,6 @@
         <item>
             <title>Redmi 15C/POCO C85 (dew) - OS3.0.307.0.WBNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dew/</link>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.32.0.VGWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Thu, 24 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
