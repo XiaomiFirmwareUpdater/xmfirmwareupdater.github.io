@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 31 Oct 2026 12:41:52 </lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 15:36:52 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.33.0.VGWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - OS2.0.207.0.VMUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Sat, 31 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1453,11 +1458,6 @@
         </item>
         <item>
             <title>Redmi Pad SE (xun) - OS2.0.207.0.VMUEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - OS2.0.206.0.VMUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
