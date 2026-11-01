@@ -52,7 +52,9 @@ permalink: /archive/hyperos/songyuan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F9 Ultra Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WGNTRXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable beta/OS3.0.303.0.WGNTRXM/">Download</a></td></tr>
+                <tr><td>POCO F9 Ultra Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WGNTWXM</td><td>16.0</td><td>8.6 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable beta/OS3.0.304.0.WGNTWXM/">Download</a></td></tr>
+<tr><td>POCO F9 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.310.0.WGNMIXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable beta/OS3.0.310.0.WGNMIXM/">Download</a></td></tr>
+<tr><td>POCO F9 Ultra Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WGNTRXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable beta/OS3.0.303.0.WGNTRXM/">Download</a></td></tr>
 <tr><td>Redmi K100 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XGNCNXM</td><td>17.0</td><td>10.0 GB</td><td>2026-10-23</td><td><a href="/hyperos/songyuan/stable/OS4.0.5.0.XGNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K100 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XGNCNXM</td><td>17.0</td><td>12.9 GB</td><td>2026-10-21</td><td><a href="/hyperos/songyuan/stable/OS4.0.5.0.XGNCNXM/">Download</a></td></tr>
 <tr><td>POCO F9 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WGNEUXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-19</td><td><a href="/hyperos/songyuan/stable/OS3.0.309.0.WGNEUXM/">Download</a></td></tr>
