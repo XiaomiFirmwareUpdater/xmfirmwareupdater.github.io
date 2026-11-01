@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 31 Oct 2026 20:01:32 </lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 02:49:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.318.0.WPTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.33.0.VGWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
@@ -1084,11 +1089,6 @@
         <item>
             <title>Xiaomi 17 Max (byron) - OS3.0.304.0.WAFCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/byron/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.315.0.WPTEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
