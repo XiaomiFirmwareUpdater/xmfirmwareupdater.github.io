@@ -10789,6 +10789,16 @@
     android: '15.0'
     miui: OS2.0.210.0.VOQMIXM
 - branch: stable
+  date: '2026-11-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-02.11.2026/fw_beryl_beryl-ota_full-OS3.0.307.0.WOQCNXM-user-16.0-32d9448f9d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl-ota_full-OS3.0.307.0.WOQCNXM-user-16.0-32d9448f9d.zip
+  filename: fw_beryl_beryl-ota_full-OS3.0.307.0.WOQCNXM-user-16.0-32d9448f9d.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.307.0.WOQCNXM
+- branch: stable
   date: '2026-06-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-02.06.2026/fw_beryl_beryl_global-ota_full-OS3.0.301.0.WOQMIXM-user-16.0-12fa9e236f.zip
@@ -12808,6 +12818,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.306.0.WDRMIXM
+- branch: stable
+  date: '2026-11-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_brussels/releases/download/stable-02.11.2026/fw_brussels_brussels_global-ota_full-OS3.0.311.0.WDRMIXM-user-16.0-f3650db77d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/brussels/fw_brussels_brussels_global-ota_full-OS3.0.311.0.WDRMIXM-user-16.0-f3650db77d.zip
+  filename: fw_brussels_brussels_global-ota_full-OS3.0.311.0.WDRMIXM-user-16.0-f3650db77d.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.311.0.WDRMIXM
 - branch: stable
   date: '2026-11-02'
   downloads:
@@ -18298,6 +18318,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.209.0.VPFMIXM
+- branch: stable
+  date: '2026-11-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-02.11.2026/fw_charoite_charoite_eea_global-ota_full-OS3.0.304.0.WPFEUXM-user-16.0-09fe5cc884.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/charoite/fw_charoite_charoite_eea_global-ota_full-OS3.0.304.0.WPFEUXM-user-16.0-09fe5cc884.zip
+  filename: fw_charoite_charoite_eea_global-ota_full-OS3.0.304.0.WPFEUXM-user-16.0-09fe5cc884.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WPFEUXM
 - branch: stable
   date: '2026-09-08'
   downloads:

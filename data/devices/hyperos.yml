@@ -2646,6 +2646,12 @@
   version: OS2.0.210.0.VOQMIXM
 - android: '16.0'
   codename: beryl
+  date: '2026-11-02'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WOQCNXM/fw_beryl_beryl-ota_full-OS3.0.307.0.WOQCNXM-user-16.0-32d9448f9d.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS3.0.307.0.WOQCNXM
+- android: '16.0'
+  codename: beryl
   date: '2026-06-01'
   download: https://bigota.d.miui.com/OS3.0.301.0.WOQMIXM/fw_beryl_beryl_global-ota_full-OS3.0.301.0.WOQMIXM-user-16.0-12fa9e236f.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
@@ -3019,6 +3025,12 @@
 - android: '16.0'
   codename: brussels
   date: '2026-11-02'
+  download: https://bigota.d.miui.com/OS3.0.311.0.WDRMIXM/fw_brussels_brussels_global-ota_full-OS3.0.311.0.WDRMIXM-user-16.0-f3650db77d.zip
+  name: Redmi Note 17 Pro Max 5G/POCO X8 Power
+  version: OS3.0.311.0.WDRMIXM
+- android: '16.0'
+  codename: brussels
+  date: '2026-11-02'
   download: https://bigota.d.miui.com/OS3.0.304.0.WDRINXM/fw_brussels_brussels_in_global-ota_full-OS3.0.304.0.WDRINXM-user-16.0-38aefa35d0.zip
   name: Redmi Note 17 Pro Max 5G/POCO X8 Power
   version: OS3.0.304.0.WDRINXM
@@ -3250,6 +3262,12 @@
   download: https://bigota.d.miui.com/OS2.0.209.0.VPFMIXM/fw_charoite_charoite_global-ota_full-OS2.0.209.0.VPFMIXM-user-15.0-835d5d0bcf.zip
   name: Redmi Note 15 Pro 4G
   version: OS2.0.209.0.VPFMIXM
+- android: '16.0'
+  codename: charoite
+  date: '2026-11-02'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPFEUXM/fw_charoite_charoite_eea_global-ota_full-OS3.0.304.0.WPFEUXM-user-16.0-09fe5cc884.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS3.0.304.0.WPFEUXM
 - android: '16.0'
   codename: chenfeng
   date: '2026-09-08'

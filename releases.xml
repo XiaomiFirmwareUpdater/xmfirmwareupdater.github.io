@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 02 Nov 2026 13:08:05 </lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 22:07:21 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.10.0.WBVEUXM</title>
@@ -12,8 +12,23 @@
             <pubDate>Mon, 02 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.307.0.WOQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.311.0.WDRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.304.0.WDRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.304.0.WPFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Mon, 02 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -767,11 +782,6 @@
             <pubDate>Tue, 22 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.308.0.WDRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.309.0.WNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
             <pubDate>Mon, 21 Sep 2026 00:00:00 </pubDate>
@@ -865,11 +875,6 @@
             <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.306.0.WPUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mist/</link>
             <pubDate>Tue, 15 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.303.0.WPFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.302.0.WOWINXM</title>
@@ -1494,11 +1499,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.306.0.WOQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
