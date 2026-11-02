@@ -52,7 +52,8 @@ permalink: /archive/hyperos/jinghu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WOXCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-10-21</td><td><a href="/hyperos/jinghu/stable beta/OS3.0.306.0.WOXCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WOXCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-10-21</td><td><a href="/hyperos/jinghu/stable/OS3.0.306.0.WOXCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WOXCNXM</td><td>16.0</td><td>9.2 GB</td><td>2026-09-21</td><td><a href="/hyperos/jinghu/stable/OS3.0.306.0.WOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOXCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-07-30</td><td><a href="/hyperos/jinghu/stable/OS3.0.302.0.WOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOXCNXM</td><td>16.0</td><td>9.2 GB</td><td>2026-07-21</td><td><a href="/hyperos/jinghu/stable/OS3.0.302.0.WOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOXCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-03-26</td><td><a href="/hyperos/jinghu/stable/OS3.0.301.0.WOXCNXM/">Download</a></td></tr>
@@ -68,10 +69,10 @@ permalink: /archive/hyperos/jinghu/
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOXCNXM</td><td>15.0</td><td>8.7 GB</td><td>2025-07-29</td><td><a href="/hyperos/jinghu/stable/OS2.0.206.0.VOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.111.0.VOXCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-06-09</td><td><a href="/hyperos/jinghu/stable/OS2.0.111.0.VOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.111.0.VOXCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-06-04</td><td><a href="/hyperos/jinghu/stable/OS2.0.111.0.VOXCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.110.0.VOXCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-31</td><td><a href="/hyperos/jinghu/stable/OS2.0.110.0.VOXCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.110.0.VOXCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-05-28</td><td><a href="/hyperos/jinghu/stable/OS2.0.110.0.VOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOXCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-07-10</td><td><a href="/hyperos/jinghu/stable/OS2.0.205.0.VOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOXCNXM</td><td>15.0</td><td>8.7 GB</td><td>2025-07-07</td><td><a href="/hyperos/jinghu/stable/OS2.0.205.0.VOXCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.110.0.VOXCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-31</td><td><a href="/hyperos/jinghu/stable/OS2.0.110.0.VOXCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.110.0.VOXCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-05-28</td><td><a href="/hyperos/jinghu/stable/OS2.0.110.0.VOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOXCNXM</td><td>15.0</td><td>7.5 GB</td><td>2025-05-22</td><td><a href="/hyperos/jinghu/stable/OS2.0.104.0.VOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOXCNXM</td><td>15.0</td><td>498 Bytes</td><td>2025-04-14</td><td><a href="/hyperos/jinghu/stable/OS2.0.104.0.VOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.108.0.VOXCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-22</td><td><a href="/hyperos/jinghu/stable/OS2.0.108.0.VOXCNXM/">Download</a></td></tr>
