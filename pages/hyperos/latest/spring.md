@@ -52,9 +52,8 @@ permalink: /hyperos/spring/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOUCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-04-23</td><td><a href="/hyperos/spring/stable/OS3.0.302.0.WOUCNXM/">Download</a></td></tr>
-<tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOUCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-04-27</td><td><a href="/hyperos/spring/stable/OS3.0.302.0.WOUCNXM/">Download</a></td></tr>
-<tr><td>Redmi 15R 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOUCNXM</td><td>16.0</td><td>5.7 GB</td><td>2026-10-23</td><td><a href="/hyperos/spring/stable beta/OS3.0.304.0.WOUCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WOUCNXM</td><td>16.0</td><td>8.0 GB</td><td>2026-10-16</td><td><a href="/hyperos/spring/stable/OS3.0.304.0.WOUCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WOUCNXM</td><td>16.0</td><td>5.7 GB</td><td>2026-10-23</td><td><a href="/hyperos/spring/stable/OS3.0.304.0.WOUCNXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / M7 Plus / M8s 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOUEUXM</td><td>16.0</td><td>7.8 GB</td><td>2026-06-01</td><td><a href="/hyperos/spring/stable/OS3.0.2.0.WOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / M7 Plus / M8s 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOUEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-06-17</td><td><a href="/hyperos/spring/stable/OS3.0.2.0.WOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / M7 Plus / M8s 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WOUEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-10-12</td><td><a href="/hyperos/spring/stable beta/OS3.0.303.0.WOUEUXM/">Download</a></td></tr>
