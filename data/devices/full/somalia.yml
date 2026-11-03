@@ -138,3 +138,13 @@
   versions:
     android: '16.0'
     miui: OS3.0.13.0.WBWCNXM
+- branch: stable
+  date: '2026-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_somalia/releases/download/stable-03.11.2026/fw_somalia_somalia_in_global-ota_full-OS3.0.15.0.WBWINXM-user-16.0-eafac801ec.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/somalia/fw_somalia_somalia_in_global-ota_full-OS3.0.15.0.WBWINXM-user-16.0-eafac801ec.zip
+  filename: fw_somalia_somalia_in_global-ota_full-OS3.0.15.0.WBWINXM-user-16.0-eafac801ec.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.15.0.WBWINXM
