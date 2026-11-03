@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 02 Nov 2026 22:07:21 </lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 06:45:08 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS3.0.304.0.WMAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.305.0.WPQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.10.0.WBVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
@@ -324,11 +334,6 @@
         <item>
             <title>Redmi A3x (klein) - V816.0.5.0.WGSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Fri, 16 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.304.0.WPQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Fri, 16 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -899,11 +904,6 @@
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.304.0.WOPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Sat, 12 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS3.0.303.0.WMAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Sat, 12 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>

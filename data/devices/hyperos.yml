@@ -13432,6 +13432,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.6.0.UMAEUXM_2baffd7962_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.6.0.UMAEUXM
+- android: '16.0'
+  codename: ishtar
+  date: '2026-11-03'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WMAEUXM/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.304.0.WMAEUXM-user-16.0-268fac8c98.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.304.0.WMAEUXM
 - android: '14.0'
   codename: ishtar
   date: '2024-12-02'
@@ -14176,6 +14182,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.WPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS3.0.1.0.WPQINXM-user-16.0-22d625c2f4.zip
   name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.1.0.WPQINXM
+- android: '16.0'
+  codename: kunzite
+  date: '2026-11-03'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS3.0.305.0.WPQINXM-user-16.0-42dfcefdf0.zip
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
+  version: OS3.0.305.0.WPQINXM
 - android: '15.0'
   codename: kunzite
   date: '2026-03-02'
