@@ -4120,6 +4120,12 @@
   download: https://bigota.d.miui.com/OS3.0.11.0.WBOMIXM/fw_creek_creek_global-ota_full-OS3.0.11.0.WBOMIXM-user-16.0-3fd10815e6.zip
   name: Redmi 15/POCO M7
   version: OS3.0.11.0.WBOMIXM
+- android: '16.0'
+  codename: creek
+  date: '2026-11-03'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WBOEUXM/fw_creek_creek_eea_global-ota_full-OS3.0.303.0.WBOEUXM-user-16.0-4dcce734ce.zip
+  name: Redmi 15/POCO M7
+  version: OS3.0.303.0.WBOEUXM
 - android: '15.0'
   codename: creek
   date: '2025-10-03'

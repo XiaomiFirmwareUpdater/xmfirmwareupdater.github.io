@@ -52,8 +52,8 @@ permalink: /hyperos/aristotle/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WMFEUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-09-17</td><td><a href="/hyperos/aristotle/stable/OS3.0.4.0.WMFEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WMFEUXM</td><td>16.0</td><td>6.7 GB</td><td>2026-10-09</td><td><a href="/hyperos/aristotle/stable/OS3.0.4.0.WMFEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WMFEUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-10-13</td><td><a href="/hyperos/aristotle/stable/OS3.0.5.0.WMFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WMFEUXM</td><td>16.0</td><td>6.7 GB</td><td>2026-10-21</td><td><a href="/hyperos/aristotle/stable/OS3.0.5.0.WMFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WMFMIXM</td><td>16.0</td><td>8.4 GB</td><td>2026-09-17</td><td><a href="/hyperos/aristotle/stable/OS3.0.6.0.WMFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WMFMIXM</td><td>16.0</td><td>6.7 GB</td><td>2026-10-09</td><td><a href="/hyperos/aristotle/stable/OS3.0.6.0.WMFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WMFIDXM</td><td>16.0</td><td>8.0 GB</td><td>2026-09-17</td><td><a href="/hyperos/aristotle/stable/OS3.0.3.0.WMFIDXM/">Download</a></td></tr>
