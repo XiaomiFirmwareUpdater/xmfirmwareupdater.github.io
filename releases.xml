@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 03 Nov 2026 19:18:47 </lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 22:36:08 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS3.0.5.0.WMFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS3.0.303.0.WBOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/creek/</link>
@@ -413,11 +418,6 @@
         </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS3.0.6.0.WMFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - OS3.0.4.0.WMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
         </item>
