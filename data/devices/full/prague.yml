@@ -58,3 +58,13 @@
   versions:
     android: '16.0'
     miui: OS3.0.311.0.WAACNXM
+- branch: stable
+  date: '2026-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prague/releases/download/stable-04.11.2026/fw_prague_prague-ota_full-OS4.0.5.0.XAACNXM-user-17.0-8a4200c881.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/prague/fw_prague_prague-ota_full-OS4.0.5.0.XAACNXM-user-17.0-8a4200c881.zip
+  filename: fw_prague_prague-ota_full-OS4.0.5.0.XAACNXM-user-17.0-8a4200c881.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.5.0.XAACNXM

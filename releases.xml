@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 04 Nov 2026 01:23:51 </lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 13:45:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.309.0.WPTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Max (prague) - OS4.0.5.0.XAACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad 2 (yili) - OS4.0.3.0.XAKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yili/</link>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS3.0.5.0.WMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
@@ -250,11 +265,6 @@
             <title>Redmi A4 5G/POCO C75 5G (warm) - OS3.0.305.0.WGVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Thu, 22 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.308.0.WPTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.304.0.WPLEUXM</title>
@@ -822,11 +832,6 @@
             <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K Pad 2 (yili) - OS3.0.312.0.WAKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yili/</link>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.309.0.WNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
             <pubDate>Mon, 21 Sep 2026 00:00:00 </pubDate>
@@ -929,11 +934,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.307.0.WOYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Max (prague) - OS3.0.317.0.WAACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
             <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
