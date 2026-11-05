@@ -70,6 +70,7 @@ permalink: /hyperos/houji/
 <tr><td>Xiaomi 14 India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WNCINXM</td><td>16.0</td><td>6.4 GB</td><td>2026-10-29</td><td><a href="/hyperos/houji/stable beta/OS3.0.305.0.WNCINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WNCRUXM</td><td>16.0</td><td>8.7 GB</td><td>2026-09-11</td><td><a href="/hyperos/houji/stable/OS3.0.305.0.WNCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WNCRUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-09-22</td><td><a href="/hyperos/houji/stable/OS3.0.305.0.WNCRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WNCRUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-11-02</td><td><a href="/hyperos/houji/stable beta/OS3.0.306.0.WNCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNCTRXM</td><td>14.0</td><td>7.0 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNCTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WNCTWXM</td><td>16.0</td><td>7.4 GB</td><td>2026-09-11</td><td><a href="/hyperos/houji/stable/OS3.0.304.0.WNCTWXM/">Download</a></td></tr>

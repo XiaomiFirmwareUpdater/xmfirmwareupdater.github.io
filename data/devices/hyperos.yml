@@ -6672,6 +6672,18 @@
   version: OS1.0.19.0.UNSCNXM
 - android: '16.0'
   codename: dizi
+  date: '2026-11-05'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNSEUXM/fw_dizi_dizi_eea_global-ota_full-OS3.0.304.0.WNSEUXM-user-16.0-60704a9164.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS3.0.304.0.WNSEUXM
+- android: '16.0'
+  codename: dizi
+  date: '2026-11-05'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNSMIXM/fw_dizi_dizi_global-ota_full-OS3.0.304.0.WNSMIXM-user-16.0-748959b5be.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS3.0.304.0.WNSMIXM
+- android: '16.0'
+  codename: dizi
   date: '2026-06-05'
   download: https://bigota.d.miui.com/OS3.0.301.0.WNSMIXM/fw_dizi_dizi_global-ota_full-OS3.0.301.0.WNSMIXM-user-16.0-366e045615.zip
   name: Redmi Pad Pro/POCO Pad

@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 05 Nov 2026 03:17:45 </lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 08:47:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.304.0.WNSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.304.0.WNSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.309.0.WPTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
@@ -1437,11 +1447,6 @@
             <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.303.0.WNSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.302.0.WNREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
@@ -1504,11 +1509,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.302.0.WNSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
