@@ -5044,90 +5044,6 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.ULZCNXM/fw_dagu_dagu-ota_full-OS2.0.2.0.ULZCNXM-user-14.0-63ccc55757.zip
   name: Xiaomi Pad 5 Pro 12.4
   version: OS2.0.2.0.ULZCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS3.0.303.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.303.0.WONCNXM-user-16.0-b0046d97b1.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.303.0.WONCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS3.0.5.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.5.0.WONCNXM-user-16.0-7d8ae41634.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.5.0.WONCNXM
-- android: '15.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS2.0.220.0.VONCNXM/fw_dali_dali-ota_full-OS2.0.220.0.VONCNXM-user-15.0-ce1b8c3ab4.zip
-  name: Redmi K80 Ultra
-  version: OS2.0.220.0.VONCNXM
-- android: '15.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS2.0.218.0.VONCNXM/fw_dali_dali-ota_full-OS2.0.218.0.VONCNXM-user-15.0-f26ec67f7e.zip
-  name: Redmi K80 Ultra
-  version: OS2.0.218.0.VONCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS3.0.4.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.4.0.WONCNXM-user-16.0-c9a624f36e.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.4.0.WONCNXM
-- android: '15.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS2.0.210.0.VONCNXM/fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
-  name: Redmi K80 Ultra
-  version: OS2.0.210.0.VONCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS3.0.9.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.9.0.WONCNXM-user-16.0-a32c7ff19c.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.9.0.WONCNXM
-- android: '15.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS2.0.214.0.VONCNXM/fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
-  name: Redmi K80 Ultra
-  version: OS2.0.214.0.VONCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS3.0.305.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.305.0.WONCNXM-user-16.0-3298197d54.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.305.0.WONCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-10-19'
-  download: https://bigota.d.miui.com/OS3.0.307.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.307.0.WONCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS3.0.7.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.7.0.WONCNXM-user-16.0-a725b61af0.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.7.0.WONCNXM
-- android: '15.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS2.0.215.0.VONCNXM/fw_dali_dali-ota_full-OS2.0.215.0.VONCNXM-user-15.0-9f97adbf9a.zip
-  name: Redmi K80 Ultra
-  version: OS2.0.215.0.VONCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS3.0.302.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.302.0.WONCNXM-user-16.0-321a23b14e.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.302.0.WONCNXM
-- android: '16.0'
-  codename: dali
-  date: '2026-09-08'
-  download: https://bigota.d.miui.com/OS3.0.301.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.301.0.WONCNXM-user-16.0-6a71af98ec.zip
-  name: Redmi K80 Ultra
-  version: OS3.0.301.0.WONCNXM
 - android: '17.0'
   codename: dash
   date: '2026-10-30'
@@ -12094,6 +12010,18 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UKKINXM/fw_haydn_miui_HAYDNINGlobal_OS1.0.14.0.UKKINXM_d8788948cc_14.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: OS1.0.14.0.UKKINXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKKMIXM/fw_haydn_miui_HAYDNGlobal_OS1.0.3.0.UKKMIXM_2792063203_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.3.0.UKKMIXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKKCNXM/fw_haydn_miui_HAYDN_OS1.0.2.0.UKKCNXM_2fa8bde61d_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.2.0.UKKCNXM
 - android: '14.0'
   codename: houji
   date: '2026-09-08'
@@ -35482,6 +35410,18 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VLLEUXM/fw_ziyi_eea_global_ziyi_eea_global-ota_full-OS2.0.2.0.VLLEUXM-user-15.0-9691c81ddc.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS2.0.2.0.VLLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-11-06'
+  download: https://bigota.d.miui.com/OS3.0.8.0.VLLEUXM/fw_ziyi_ziyi_eea_global-ota_full-OS3.0.8.0.VLLEUXM-user-15.0-f5cb4f7d65.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.8.0.VLLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-11-06'
+  download: https://bigota.d.miui.com/OS3.0.6.0.VLLMIXM/fw_ziyi_ziyi_global-ota_full-OS3.0.6.0.VLLMIXM-user-15.0-3274a78540.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.6.0.VLLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-09-06'

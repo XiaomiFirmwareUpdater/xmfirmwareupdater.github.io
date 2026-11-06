@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 06 Nov 2026 06:45:06 </lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 07:39:19 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.304.0.WNSINXM</title>
@@ -29,6 +29,16 @@
         <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.210.0.VMTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.6.0.VLLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.8.0.VLLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 06 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -355,11 +365,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.303.0.WNOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Wed, 21 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Ultra (dali) - OS3.0.307.0.WONCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.303.0.WOEMIXM</title>
@@ -807,11 +812,6 @@
             <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.5.0.VLLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.303.0.WNJINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
             <pubDate>Sun, 27 Sep 2026 00:00:00 </pubDate>
@@ -979,11 +979,6 @@
         <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.303.0.WOWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.6.0.VLLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
