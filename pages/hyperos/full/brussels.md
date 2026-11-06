@@ -52,7 +52,10 @@ permalink: /archive/hyperos/brussels/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 17 Pro Max 5G / POCO X8 Power India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WDRINXM</td><td>16.0</td><td>5.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/brussels/stable beta/OS3.0.304.0.WDRINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 17 Pro Max 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WDRTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-11-03</td><td><a href="/hyperos/brussels/stable beta/OS3.0.306.0.WDRTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro Max 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WDRIDXM</td><td>16.0</td><td>5.9 GB</td><td>2026-11-03</td><td><a href="/hyperos/brussels/stable beta/OS3.0.303.0.WDRIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro Max 5G / POCO X8 Power India</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WDRINXM</td><td>16.0</td><td>5.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/brussels/stable/OS3.0.304.0.WDRINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro Max 5G / POCO X8 Power India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WDRINXM</td><td>16.0</td><td>7.7 GB</td><td>2026-10-19</td><td><a href="/hyperos/brussels/stable/OS3.0.304.0.WDRINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro Max 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.311.0.WDRMIXM</td><td>16.0</td><td>6.1 GB</td><td>2026-10-29</td><td><a href="/hyperos/brussels/stable beta/OS3.0.311.0.WDRMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro Max 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WDREUXM</td><td>16.0</td><td>6.0 GB</td><td>2026-10-26</td><td><a href="/hyperos/brussels/stable/OS3.0.309.0.WDREUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro Max 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WDREUXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-16</td><td><a href="/hyperos/brussels/stable/OS3.0.309.0.WDREUXM/">Download</a></td></tr>
