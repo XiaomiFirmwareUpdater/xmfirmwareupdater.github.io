@@ -53,7 +53,8 @@ permalink: /archive/hyperos/songyuan/
                 </thead>
                 <tbody>
                 <tr><td>POCO F9 Ultra Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WGNTWXM</td><td>16.0</td><td>8.6 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable beta/OS3.0.304.0.WGNTWXM/">Download</a></td></tr>
-<tr><td>POCO F9 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.310.0.WGNMIXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable beta/OS3.0.310.0.WGNMIXM/">Download</a></td></tr>
+<tr><td>POCO F9 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WGNMIXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable/OS3.0.310.0.WGNMIXM/">Download</a></td></tr>
+<tr><td>POCO F9 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WGNMIXM</td><td>16.0</td><td>11.2 GB</td><td>2026-10-15</td><td><a href="/hyperos/songyuan/stable/OS3.0.310.0.WGNMIXM/">Download</a></td></tr>
 <tr><td>POCO F9 Ultra Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WGNIDXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable beta/OS3.0.306.0.WGNIDXM/">Download</a></td></tr>
 <tr><td>POCO F9 Ultra Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.309.0.WGNJPXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable beta/OS3.0.309.0.WGNJPXM/">Download</a></td></tr>
 <tr><td>POCO F9 Ultra Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WGNTRXM</td><td>16.0</td><td>8.7 GB</td><td>2026-10-29</td><td><a href="/hyperos/songyuan/stable/OS3.0.303.0.WGNTRXM/">Download</a></td></tr>
