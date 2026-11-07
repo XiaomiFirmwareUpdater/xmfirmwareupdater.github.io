@@ -35502,6 +35502,12 @@
   version: OS1.0.8.0.ULLCNXM
 - android: '15.0'
   codename: ziyi
+  date: '2026-11-07'
+  download: https://bigota.d.miui.com/OS3.0.7.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS3.0.7.0.VLLCNXM-user-15.0-62b73a5a5d.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.7.0.VLLCNXM
+- android: '15.0'
+  codename: ziyi
   date: '2025-04-07'
   download: https://bigota.d.miui.com/OS2.0.6.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS2.0.6.0.VLLCNXM-user-15.0-2d8e81daf1.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite

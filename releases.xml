@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 07 Nov 2026 06:44:03 </lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 08:02:54 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.309.0.WDQMIXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.307.0.WPUEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mist/</link>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.7.0.VLLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Sat, 07 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1414,11 +1419,6 @@
         <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.304.0.WNKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.6.0.VLLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
