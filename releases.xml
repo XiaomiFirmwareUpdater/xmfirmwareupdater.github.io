@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 06 Nov 2026 21:25:47 </lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 06:44:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.309.0.WDQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.314.0.WDQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.307.0.WPUEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mist/</link>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.304.0.WNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
@@ -512,11 +527,6 @@
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.313.0.WDQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.305.0.WOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
@@ -782,11 +792,6 @@
             <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.308.0.WDQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.305.0.WOWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
             <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
@@ -894,11 +899,6 @@
         <item>
             <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.302.0.WDQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.305.0.WPUEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mist/</link>
             <pubDate>Fri, 18 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
