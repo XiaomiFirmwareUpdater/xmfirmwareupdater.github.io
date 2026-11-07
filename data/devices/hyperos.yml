@@ -11700,6 +11700,12 @@
   version: OS3.0.307.0.WDNMIXM
 - android: '16.0'
   codename: guitar
+  date: '2026-11-07'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WDNCNXM/fw_guitar_guitar-ota_full-OS3.0.304.0.WDNCNXM-user-16.0-29ceb06821.zip
+  name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
+  version: OS3.0.304.0.WDNCNXM
+- android: '16.0'
+  codename: guitar
   date: '2026-07-01'
   download: https://bigota.d.miui.com/OS3.0.305.0.WDNMIXM/fw_guitar_guitar_global-ota_full-OS3.0.305.0.WDNMIXM-user-16.0-4d6d4890e7.zip
   name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
@@ -14014,6 +14020,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WOWEUXM/fw_koto_koto_eea_global-ota_full-OS3.0.3.0.WOWEUXM-user-16.0-f83e3e8d3c.zip
   name: Redmi Pad 2 4G
   version: OS3.0.3.0.WOWEUXM
+- android: '16.0'
+  codename: koto
+  date: '2026-11-07'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOWEUXM/fw_koto_koto_eea_global-ota_full-OS3.0.304.0.WOWEUXM-user-16.0-72dfa329d8.zip
+  name: Redmi Pad 2 4G
+  version: OS3.0.304.0.WOWEUXM
 - android: '15.0'
   codename: koto
   date: '2025-08-07'
