@@ -3199,15 +3199,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2026-10-21'
+  date: '2026-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-21.10.2026/fw_klee_klee_global-ota_full-OS3.0.308.0.WPJMIXM-user-16.0-9af8d04c45.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee_global-ota_full-OS3.0.308.0.WPJMIXM-user-16.0-9af8d04c45.zip
-  filename: fw_klee_klee_global-ota_full-OS3.0.308.0.WPJMIXM-user-16.0-9af8d04c45.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-08.11.2026/fw_klee_klee_global-ota_full-OS3.0.309.0.WPJMIXM-user-16.0-a0acc26db7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee_global-ota_full-OS3.0.309.0.WPJMIXM-user-16.0-a0acc26db7.zip
+  filename: fw_klee_klee_global-ota_full-OS3.0.309.0.WPJMIXM-user-16.0-a0acc26db7.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.308.0.WPJMIXM
+    miui: OS3.0.309.0.WPJMIXM
 - branch: stable
   date: '2026-10-30'
   downloads:
@@ -5739,15 +5739,15 @@
     android: '14.0'
     miui: OS1.0.8.0.ULUINXM
 - branch: stable
-  date: '2026-10-21'
+  date: '2026-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-21.10.2026/fw_rodin_rodin_global-ota_full-OS3.0.303.0.WOJMIXM-user-16.0-4d18c029bd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin_global-ota_full-OS3.0.303.0.WOJMIXM-user-16.0-4d18c029bd.zip
-  filename: fw_rodin_rodin_global-ota_full-OS3.0.303.0.WOJMIXM-user-16.0-4d18c029bd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-08.11.2026/fw_rodin_rodin_global-ota_full-OS3.0.304.0.WOJMIXM-user-16.0-142827b240.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin_global-ota_full-OS3.0.304.0.WOJMIXM-user-16.0-142827b240.zip
+  filename: fw_rodin_rodin_global-ota_full-OS3.0.304.0.WOJMIXM-user-16.0-142827b240.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WOJMIXM
+    miui: OS3.0.304.0.WOJMIXM
 - branch: stable
   date: '2026-09-21'
   downloads:

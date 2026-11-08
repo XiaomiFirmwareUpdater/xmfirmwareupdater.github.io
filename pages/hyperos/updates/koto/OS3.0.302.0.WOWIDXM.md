@@ -56,22 +56,22 @@ permalink: /hyperos/koto/stable/OS3.0.302.0.WOWIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.5 GB</h5>
+                    <h5><b>Size: </b>7.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-28</h5>
+                    <h5><b>Release Date: </b>2026-08-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0cda1b0bcf85c8fc708eebfca988996d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6193e4ec6b5d5c407de0921ddcbf8a70</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_incremental-OS3.0.301.0.WOWIDXM-OS3.0.302.0.WOWIDXM-user-16.0-80b5f882e3.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#koto_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/koto/stable/OS3.0.302.0.WOWIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.1 GB</h5>
+                    <h5><b>Size: </b>5.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-19</h5>
+                    <h5><b>Release Date: </b>2026-08-28</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6193e4ec6b5d5c407de0921ddcbf8a70</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0cda1b0bcf85c8fc708eebfca988996d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global_images_OS3.0.302.0.WOWIDXM_20260819.0000.00_16.0_id_6193e4ec6b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_incremental-OS3.0.301.0.WOWIDXM-OS3.0.302.0.WOWIDXM-user-16.0-80b5f882e3.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WOWIDXM/koto_id_global-ota_full-OS3.0.302.0.WOWIDXM-user-16.0-0cda1b0bcf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#koto_2_changelog" data-toggle="collapse" role="button"

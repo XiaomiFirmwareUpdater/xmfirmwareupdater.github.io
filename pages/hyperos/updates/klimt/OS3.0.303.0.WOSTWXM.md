@@ -56,22 +56,22 @@ permalink: /hyperos/klimt/stable/OS3.0.303.0.WOSTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.1 GB</h5>
+                    <h5><b>Size: </b>8.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-22</h5>
+                    <h5><b>Release Date: </b>2026-10-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">62635e6bfed972fd0f962d6524fd7f94</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1bf59ea00ca72db73b31cf16579f1778</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_incremental-OS3.0.302.0.WOSTWXM-OS3.0.303.0.WOSTWXM-user-16.0-49fc17f3c4.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#klimt_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/klimt/stable/OS3.0.303.0.WOSTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.3 GB</h5>
+                    <h5><b>Size: </b>7.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-16</h5>
+                    <h5><b>Release Date: </b>2026-10-22</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1bf59ea00ca72db73b31cf16579f1778</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">62635e6bfed972fd0f962d6524fd7f94</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global_images_OS3.0.303.0.WOSTWXM_20261016.0000.00_16.0_tw_1bf59ea00c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_incremental-OS3.0.302.0.WOSTWXM-OS3.0.303.0.WOSTWXM-user-16.0-49fc17f3c4.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WOSTWXM/klimt_tw_global-ota_full-OS3.0.303.0.WOSTWXM-user-16.0-62635e6bfe.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#klimt_2_changelog" data-toggle="collapse" role="button"

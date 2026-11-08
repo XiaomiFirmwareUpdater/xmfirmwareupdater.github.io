@@ -56,22 +56,22 @@ permalink: /hyperos/plato/stable/OS2.0.218.0.VLQEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.0 GB</h5>
+                    <h5><b>Size: </b>7.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-30</h5>
+                    <h5><b>Release Date: </b>2026-09-22</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">573f9bd85ecc1570aee1eb23dc2f8662</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">08f5fcfc49d329254184d2fc0173001e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_incremental-OS2.0.217.0.VLQEUXM-OS2.0.218.0.VLQEUXM-user-15.0-59e29d2e0d.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#plato_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/plato/stable/OS2.0.218.0.VLQEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.1 GB</h5>
+                    <h5><b>Size: </b>6.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-22</h5>
+                    <h5><b>Release Date: </b>2026-09-30</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">08f5fcfc49d329254184d2fc0173001e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">573f9bd85ecc1570aee1eb23dc2f8662</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global_images_OS2.0.218.0.VLQEUXM_20260922.0000.00_15.0_eea_08f5fcfc49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_incremental-OS2.0.217.0.VLQEUXM-OS2.0.218.0.VLQEUXM-user-15.0-59e29d2e0d.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.218.0.VLQEUXM/plato_eea_global-ota_full-OS2.0.218.0.VLQEUXM-user-15.0-573f9bd85e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#plato_2_changelog" data-toggle="collapse" role="button"

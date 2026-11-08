@@ -13680,6 +13680,12 @@
   version: OS3.0.307.0.WPJCNXM
 - android: '16.0'
   codename: klee
+  date: '2026-11-08'
+  download: https://bigota.d.miui.com/OS3.0.309.0.WPJMIXM/fw_klee_klee_global-ota_full-OS3.0.309.0.WPJMIXM-user-16.0-a0acc26db7.zip
+  name: Redmi Turbo 5/POCO X8 Pro
+  version: OS3.0.309.0.WPJMIXM
+- android: '16.0'
+  codename: klee
   date: '2026-09-08'
   download: https://bigota.d.miui.com/OS3.0.304.0.WPJEUXM/fw_klee_klee_eea_global-ota_full-OS3.0.304.0.WPJEUXM-user-16.0-ad73459ffb.zip
   name: Redmi Turbo 5/POCO X8 Pro
@@ -23734,6 +23740,12 @@
   download: https://bigota.d.miui.com/OS2.0.8.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.8.0.VOJMIXM-user-15.0-f4d55ab50b.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS2.0.8.0.VOJMIXM
+- android: '16.0'
+  codename: rodin
+  date: '2026-11-08'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOJMIXM/fw_rodin_rodin_global-ota_full-OS3.0.304.0.WOJMIXM-user-16.0-142827b240.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS3.0.304.0.WOJMIXM
 - android: '16.0'
   codename: rodin
   date: '2026-09-08'
