@@ -56,22 +56,22 @@ permalink: /hyperos/muyu/stable/OS3.0.305.0.WOYRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.5 GB</h5>
+                    <h5><b>Size: </b>6.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-16</h5>
+                    <h5><b>Release Date: </b>2026-10-08</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">936438288da210290ff21741afabbd3f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2b9899f332b235efdf785ac5751cfcdc</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_incremental-OS3.0.304.0.WOYRUXM-OS3.0.305.0.WOYRUXM-user-16.0-7b53a9aa15.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#muyu_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/muyu/stable/OS3.0.305.0.WOYRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.3 GB</h5>
+                    <h5><b>Size: </b>8.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-08</h5>
+                    <h5><b>Release Date: </b>2026-09-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2b9899f332b235efdf785ac5751cfcdc</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">936438288da210290ff21741afabbd3f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_incremental-OS3.0.304.0.WOYRUXM-OS3.0.305.0.WOYRUXM-user-16.0-7b53a9aa15.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global-ota_full-OS3.0.305.0.WOYRUXM-user-16.0-2b9899f332.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.305.0.WOYRUXM/muyu_ru_global_images_OS3.0.305.0.WOYRUXM_20260916.0000.00_16.0_ru_936438288d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#muyu_2_changelog" data-toggle="collapse" role="button"

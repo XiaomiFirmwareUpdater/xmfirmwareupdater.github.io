@@ -56,22 +56,22 @@ permalink: /hyperos/piano/stable/OS3.0.304.0.WPYRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>10.8 GB</h5>
+                    <h5><b>Size: </b>8.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-07-20</h5>
+                    <h5><b>Release Date: </b>2026-08-10</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fac3e5cf1ec9d3736e6c15a8910e865e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1329aff334ff29e988cd468848e99080</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_incremental-OS3.0.302.0.WPYRUXM-OS3.0.304.0.WPYRUXM-user-16.0-69ef2080a5.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#piano_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/piano/stable/OS3.0.304.0.WPYRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.5 GB</h5>
+                    <h5><b>Size: </b>10.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-10</h5>
+                    <h5><b>Release Date: </b>2026-07-20</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1329aff334ff29e988cd468848e99080</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fac3e5cf1ec9d3736e6c15a8910e865e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_incremental-OS3.0.302.0.WPYRUXM-OS3.0.304.0.WPYRUXM-user-16.0-69ef2080a5.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global-ota_full-OS3.0.304.0.WPYRUXM-user-16.0-1329aff334.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WPYRUXM/piano_ru_global_images_OS3.0.304.0.WPYRUXM_20260720.0000.00_16.0_ru_fac3e5cf1e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#piano_2_changelog" data-toggle="collapse" role="button"
