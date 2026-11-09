@@ -52,7 +52,8 @@ permalink: /archive/hyperos/athens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XPICNXM</td><td>17.0</td><td>9.9 GB</td><td>2026-10-23</td><td><a href="/hyperos/athens/stable/OS4.0.5.0.XPICNXM/">Download</a></td></tr>
+                <tr><td>Redmi K100 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.6.0.XPICNXM</td><td>17.0</td><td>9.9 GB</td><td>2026-11-03</td><td><a href="/hyperos/athens/stable beta/OS4.0.6.0.XPICNXM/">Download</a></td></tr>
+<tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XPICNXM</td><td>17.0</td><td>9.9 GB</td><td>2026-10-23</td><td><a href="/hyperos/athens/stable/OS4.0.5.0.XPICNXM/">Download</a></td></tr>
 <tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XPICNXM</td><td>17.0</td><td>12.8 GB</td><td>2026-10-21</td><td><a href="/hyperos/athens/stable/OS4.0.5.0.XPICNXM/">Download</a></td></tr>
 <tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.4.0.XPICNXM</td><td>17.0</td><td>9.9 GB</td><td>2026-10-17</td><td><a href="/hyperos/athens/stable/OS4.0.4.0.XPICNXM/">Download</a></td></tr>
 <tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.4.0.XPICNXM</td><td>17.0</td><td>12.8 GB</td><td>2026-10-15</td><td><a href="/hyperos/athens/stable/OS4.0.4.0.XPICNXM/">Download</a></td></tr>
