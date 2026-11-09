@@ -52,9 +52,8 @@ permalink: /hyperos/arctic/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WBVEUXM</td><td>16.0</td><td>8.1 GB</td><td>2026-08-21</td><td><a href="/hyperos/arctic/stable/OS3.0.9.0.WBVEUXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WBVEUXM</td><td>16.0</td><td>5.5 GB</td><td>2026-08-27</td><td><a href="/hyperos/arctic/stable/OS3.0.9.0.WBVEUXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.10.0.WBVEUXM</td><td>16.0</td><td>5.5 GB</td><td>2026-10-27</td><td><a href="/hyperos/arctic/stable beta/OS3.0.10.0.WBVEUXM/">Download</a></td></tr>
+                <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WBVEUXM</td><td>16.0</td><td>8.1 GB</td><td>2026-10-20</td><td><a href="/hyperos/arctic/stable/OS3.0.10.0.WBVEUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WBVEUXM</td><td>16.0</td><td>5.5 GB</td><td>2026-10-27</td><td><a href="/hyperos/arctic/stable/OS3.0.10.0.WBVEUXM/">Download</a></td></tr>
 <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.13.0.WBVMIXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-20</td><td><a href="/hyperos/arctic/stable/OS3.0.13.0.WBVMIXM/">Download</a></td></tr>
 <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.13.0.WBVMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-09-28</td><td><a href="/hyperos/arctic/stable/OS3.0.13.0.WBVMIXM/">Download</a></td></tr>
 <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WBVIDXM</td><td>16.0</td><td>8.1 GB</td><td>2026-10-15</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVIDXM/">Download</a></td></tr>

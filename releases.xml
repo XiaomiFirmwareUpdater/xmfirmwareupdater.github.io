@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 09 Nov 2026 01:32:11 </lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 07:34:36 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.209.0.VGQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.309.0.WPJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klee/</link>
@@ -1513,11 +1518,6 @@
         </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.210.0.VGQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>

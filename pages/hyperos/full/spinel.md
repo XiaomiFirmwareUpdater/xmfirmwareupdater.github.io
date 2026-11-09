@@ -52,7 +52,8 @@ permalink: /archive/hyperos/spinel/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPGIDXM</td><td>16.0</td><td>5.9 GB</td><td>2026-10-20</td><td><a href="/hyperos/spinel/stable/OS3.0.302.0.WPGIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 4G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WPGTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-11-05</td><td><a href="/hyperos/spinel/stable beta/OS3.0.302.0.WPGTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPGIDXM</td><td>16.0</td><td>5.9 GB</td><td>2026-10-20</td><td><a href="/hyperos/spinel/stable/OS3.0.302.0.WPGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPGIDXM</td><td>16.0</td><td>8.9 GB</td><td>2026-10-12</td><td><a href="/hyperos/spinel/stable/OS3.0.302.0.WPGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPGTRXM</td><td>16.0</td><td>5.9 GB</td><td>2026-10-20</td><td><a href="/hyperos/spinel/stable/OS3.0.302.0.WPGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPGTRXM</td><td>16.0</td><td>8.5 GB</td><td>2026-10-12</td><td><a href="/hyperos/spinel/stable/OS3.0.302.0.WPGTRXM/">Download</a></td></tr>

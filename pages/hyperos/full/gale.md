@@ -52,7 +52,8 @@ permalink: /archive/hyperos/gale/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13C / POCO C65 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VGPIDXM</td><td>15.0</td><td>4.5 GB</td><td>2026-10-23</td><td><a href="/hyperos/gale/stable/OS2.0.209.0.VGPIDXM/">Download</a></td></tr>
+                <tr><td>Redmi 13C / POCO C65 India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.209.0.VGPINXM</td><td>15.0</td><td>4.3 GB</td><td>2026-11-04</td><td><a href="/hyperos/gale/stable beta/OS2.0.209.0.VGPINXM/">Download</a></td></tr>
+<tr><td>Redmi 13C / POCO C65 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VGPIDXM</td><td>15.0</td><td>4.5 GB</td><td>2026-10-23</td><td><a href="/hyperos/gale/stable/OS2.0.209.0.VGPIDXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VGPIDXM</td><td>15.0</td><td>6.9 GB</td><td>2026-10-16</td><td><a href="/hyperos/gale/stable/OS2.0.209.0.VGPIDXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VGPEUXM</td><td>15.0</td><td>4.7 GB</td><td>2026-09-23</td><td><a href="/hyperos/gale/stable/OS2.0.212.0.VGPEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.212.0.VGPEUXM</td><td>15.0</td><td>7.1 GB</td><td>2026-09-17</td><td><a href="/hyperos/gale/stable/OS2.0.212.0.VGPEUXM/">Download</a></td></tr>

@@ -69,7 +69,7 @@ permalink: /hyperos/spinel/
 <tr><td>Redmi Note 15 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.201.0.VPGTRXM</td><td>15.0</td><td>4.8 GB</td><td>2026-01-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.201.0.VPGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPGTWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-21</td><td><a href="/hyperos/spinel/stable/OS3.0.301.0.WPGTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPGTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-08-15</td><td><a href="/hyperos/spinel/stable/OS3.0.301.0.WPGTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.202.0.VPGTWXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.202.0.VPGTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WPGTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-11-05</td><td><a href="/hyperos/spinel/stable beta/OS3.0.302.0.WPGTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
