@@ -2917,6 +2917,12 @@
 - android: '16.0'
   codename: breeze
   date: '2026-11-09'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNUCNXM/fw_breeze_breeze-ota_full-OS3.0.304.0.WNUCNXM-user-16.0-5e10bd7077.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS3.0.304.0.WNUCNXM
+- android: '16.0'
+  codename: breeze
+  date: '2026-11-09'
   download: https://bigota.d.miui.com/OS3.0.304.0.WNUINXM/fw_breeze_breeze_in_global-ota_full-OS3.0.304.0.WNUINXM-user-16.0-67d8185fa9.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS3.0.304.0.WNUINXM
@@ -6640,6 +6646,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VNSMIXM/fw_dizi_dizi_global-ota_full-OS2.0.207.0.VNSMIXM-user-15.0-b36edfa870.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS2.0.207.0.VNSMIXM
+- android: '16.0'
+  codename: dizi
+  date: '2026-11-09'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WNSCNXM/fw_dizi_dizi-ota_full-OS3.0.308.0.WNSCNXM-user-16.0-dbd14a49c9.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS3.0.308.0.WNSCNXM
 - android: '15.0'
   codename: dizi
   date: '2025-07-07'

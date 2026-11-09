@@ -12641,6 +12641,16 @@
 - branch: stable
   date: '2026-11-09'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-09.11.2026/fw_breeze_breeze-ota_full-OS3.0.304.0.WNUCNXM-user-16.0-5e10bd7077.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/breeze/fw_breeze_breeze-ota_full-OS3.0.304.0.WNUCNXM-user-16.0-5e10bd7077.zip
+  filename: fw_breeze_breeze-ota_full-OS3.0.304.0.WNUCNXM-user-16.0-5e10bd7077.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WNUCNXM
+- branch: stable
+  date: '2026-11-09'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-09.11.2026/fw_breeze_breeze_in_global-ota_full-OS3.0.304.0.WNUINXM-user-16.0-67d8185fa9.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/breeze/fw_breeze_breeze_in_global-ota_full-OS3.0.304.0.WNUINXM-user-16.0-67d8185fa9.zip
   filename: fw_breeze_breeze_in_global-ota_full-OS3.0.304.0.WNUINXM-user-16.0-67d8185fa9.zip
@@ -32558,6 +32568,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.207.0.VNSMIXM
+- branch: stable
+  date: '2026-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-09.11.2026/fw_dizi_dizi-ota_full-OS3.0.308.0.WNSCNXM-user-16.0-dbd14a49c9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dizi/fw_dizi_dizi-ota_full-OS3.0.308.0.WNSCNXM-user-16.0-dbd14a49c9.zip
+  filename: fw_dizi_dizi-ota_full-OS3.0.308.0.WNSCNXM-user-16.0-dbd14a49c9.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.308.0.WNSCNXM
 - branch: stable
   date: '2025-07-07'
   downloads:

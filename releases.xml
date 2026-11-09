@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 09 Nov 2026 18:00:54 </lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 21:27:55 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.209.0.VGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.304.0.WNUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
             <pubDate>Mon, 09 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -19,6 +24,11 @@
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.306.0.WPTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.308.0.WNSCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Mon, 09 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1397,11 +1407,6 @@
             <pubDate>Sat, 05 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.303.0.WNUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.302.0.WOVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
@@ -1524,11 +1529,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.210.0.VGQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.307.0.WNSCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
