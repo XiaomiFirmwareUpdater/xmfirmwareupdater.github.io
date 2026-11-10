@@ -19,15 +19,15 @@
     android: '16.0'
     miui: OS3.0.305.0.WNOCNXM
 - branch: stable
-  date: '2026-09-03'
+  date: '2026-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-03.09.2026/fw_zircon_zircon_eea_global-ota_full-OS3.0.303.0.WNOEUXM-user-16.0-918a747f2c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zircon/fw_zircon_zircon_eea_global-ota_full-OS3.0.303.0.WNOEUXM-user-16.0-918a747f2c.zip
-  filename: fw_zircon_zircon_eea_global-ota_full-OS3.0.303.0.WNOEUXM-user-16.0-918a747f2c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-10.11.2026/fw_zircon_zircon_eea_global-ota_full-OS3.0.304.0.WNOEUXM-user-16.0-dab21962d0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zircon/fw_zircon_zircon_eea_global-ota_full-OS3.0.304.0.WNOEUXM-user-16.0-dab21962d0.zip
+  filename: fw_zircon_zircon_eea_global-ota_full-OS3.0.304.0.WNOEUXM-user-16.0-dab21962d0.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WNOEUXM
+    miui: OS3.0.304.0.WNOEUXM
 - branch: stable
   date: '2026-08-25'
   downloads:

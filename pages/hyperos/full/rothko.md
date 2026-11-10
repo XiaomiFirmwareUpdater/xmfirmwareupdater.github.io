@@ -52,7 +52,8 @@ permalink: /archive/hyperos/rothko/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNNRUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-10-22</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNRUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14T Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNNIDXM</td><td>16.0</td><td>6.4 GB</td><td>2026-11-04</td><td><a href="/hyperos/rothko/stable beta/OS3.0.302.0.WNNIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNNRUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-10-22</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNNRUXM</td><td>16.0</td><td>8.5 GB</td><td>2026-10-14</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNNTRXM</td><td>16.0</td><td>6.3 GB</td><td>2026-10-22</td><td><a href="/hyperos/rothko/stable/OS3.0.302.0.WNNTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNNTRXM</td><td>16.0</td><td>7.8 GB</td><td>2026-10-14</td><td><a href="/hyperos/rothko/stable/OS3.0.302.0.WNNTRXM/">Download</a></td></tr>
