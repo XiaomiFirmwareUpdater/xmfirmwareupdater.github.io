@@ -19,12 +19,12 @@
     android: '16.0'
     miui: OS3.0.303.0.WHYEUXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-25.08.2026/fw_spark_spark_in_global-ota_full-OS3.0.302.0.WHYINXM-user-16.0-11447751e5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spark/fw_spark_spark_in_global-ota_full-OS3.0.302.0.WHYINXM-user-16.0-11447751e5.zip
-  filename: fw_spark_spark_in_global-ota_full-OS3.0.302.0.WHYINXM-user-16.0-11447751e5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-10.11.2026/fw_spark_spark_in_global-ota_full-OS3.0.303.0.WHYINXM-user-16.0-d0b859306e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spark/fw_spark_spark_in_global-ota_full-OS3.0.303.0.WHYINXM-user-16.0-d0b859306e.zip
+  filename: fw_spark_spark_in_global-ota_full-OS3.0.303.0.WHYINXM-user-16.0-d0b859306e.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WHYINXM
+    miui: OS3.0.303.0.WHYINXM

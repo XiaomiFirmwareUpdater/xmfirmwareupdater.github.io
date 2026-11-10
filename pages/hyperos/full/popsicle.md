@@ -52,7 +52,8 @@ permalink: /archive/hyperos/popsicle/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XPBCNXM</td><td>17.0</td><td>9.1 GB</td><td>2026-10-23</td><td><a href="/hyperos/popsicle/stable/OS4.0.5.0.XPBCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 Pro Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.6.0.XPBCNXM</td><td>17.0</td><td>9.2 GB</td><td>2026-11-03</td><td><a href="/hyperos/popsicle/stable beta/OS4.0.6.0.XPBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XPBCNXM</td><td>17.0</td><td>9.1 GB</td><td>2026-10-23</td><td><a href="/hyperos/popsicle/stable/OS4.0.5.0.XPBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XPBCNXM</td><td>17.0</td><td>12.5 GB</td><td>2026-10-21</td><td><a href="/hyperos/popsicle/stable/OS4.0.5.0.XPBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.4.0.XPBCNXM</td><td>17.0</td><td>9.1 GB</td><td>2026-10-17</td><td><a href="/hyperos/popsicle/stable/OS4.0.4.0.XPBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.4.0.XPBCNXM</td><td>17.0</td><td>12.5 GB</td><td>2026-10-15</td><td><a href="/hyperos/popsicle/stable/OS4.0.4.0.XPBCNXM/">Download</a></td></tr>

@@ -579,6 +579,16 @@
     android: '15.0'
     miui: OS2.0.3.0.VFSINXM
 - branch: stable
+  date: '2026-11-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-10.11.2026/fw_ruan_ruan-ota_full-OS3.0.308.0.WFSCNXM-user-16.0-15e5f3b899.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruan/fw_ruan_ruan-ota_full-OS3.0.308.0.WFSCNXM-user-16.0-15e5f3b899.zip
+  filename: fw_ruan_ruan-ota_full-OS3.0.308.0.WFSCNXM-user-16.0-15e5f3b899.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.308.0.WFSCNXM
+- branch: stable
   date: '2024-07-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-10.07.2024/fw_ruan_miui_RUANINGlobal_OS1.0.2.0.UFSINXM_5a9b95539c_14.0.zip

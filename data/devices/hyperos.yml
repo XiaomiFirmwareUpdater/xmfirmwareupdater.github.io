@@ -14064,6 +14064,12 @@
   version: OS3.0.303.0.WOWEUXM
 - android: '16.0'
   codename: koto
+  date: '2026-11-10'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WOWMIXM/fw_koto_koto_global-ota_full-OS3.0.306.0.WOWMIXM-user-16.0-05c18da8ca.zip
+  name: Redmi Pad 2 4G
+  version: OS3.0.306.0.WOWMIXM
+- android: '16.0'
+  codename: koto
   date: '2026-11-09'
   download: https://bigota.d.miui.com/OS3.0.303.0.WOWINXM/fw_koto_koto_in_global-ota_full-OS3.0.303.0.WOWINXM-user-16.0-17f3a30603.zip
   name: Redmi Pad 2 4G
@@ -24646,6 +24652,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VFSINXM/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.3.0.VFSINXM-user-15.0-73aee7e86a.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.3.0.VFSINXM
+- android: '16.0'
+  codename: ruan
+  date: '2026-11-10'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WFSCNXM/fw_ruan_ruan-ota_full-OS3.0.308.0.WFSCNXM-user-16.0-15e5f3b899.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS3.0.308.0.WFSCNXM
 - android: '14.0'
   codename: ruan
   date: '2024-07-10'
@@ -28000,6 +28012,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VHYEUXM/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.2.0.VHYEUXM-user-15.0-3cd32adf16.zip
   name: Redmi Pad SE 8.7 4G
   version: OS2.0.2.0.VHYEUXM
+- android: '16.0'
+  codename: spark
+  date: '2026-11-10'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WHYINXM/fw_spark_spark_in_global-ota_full-OS3.0.303.0.WHYINXM-user-16.0-d0b859306e.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.303.0.WHYINXM
 - android: '15.0'
   codename: spark
   date: '2025-10-10'

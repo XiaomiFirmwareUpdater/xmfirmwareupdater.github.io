@@ -54,7 +54,7 @@ permalink: /hyperos/pandora/
                 <tbody>
                 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XBLCNXM</td><td>17.0</td><td>12.5 GB</td><td>2026-10-21</td><td><a href="/hyperos/pandora/stable/OS4.0.5.0.XBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XBLCNXM</td><td>17.0</td><td>9.1 GB</td><td>2026-10-23</td><td><a href="/hyperos/pandora/stable/OS4.0.5.0.XBLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WBLCNXM</td><td>16.0</td><td>8.1 GB</td><td>2025-09-26</td><td><a href="/hyperos/pandora/stable beta/OS3.0.3.0.WBLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.6.0.XBLCNXM</td><td>17.0</td><td>9.2 GB</td><td>2026-11-03</td><td><a href="/hyperos/pandora/stable beta/OS4.0.6.0.XBLCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
