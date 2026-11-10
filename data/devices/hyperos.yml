@@ -3130,6 +3130,12 @@
   download: https://bigota.d.miui.com/OS3.0.305.0.WPTINXM/fw_chagall_chagall_in_global-ota_full-OS3.0.305.0.WPTINXM-user-16.0-2381e217c8.zip
   name: Xiaomi 17T
   version: OS3.0.305.0.WPTINXM
+- android: '17.0'
+  codename: chagall
+  date: '2026-11-10'
+  download: https://bigota.d.miui.com/OS4.0.3.0.XPTCNXM/fw_chagall_chagall-ota_full-OS4.0.3.0.XPTCNXM-user-17.0-8e5b90cb5d.zip
+  name: Xiaomi 17T
+  version: OS4.0.3.0.XPTCNXM
 - android: '16.0'
   codename: chagall
   date: '2026-11-09'

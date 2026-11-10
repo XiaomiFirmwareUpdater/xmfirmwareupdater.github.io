@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 10 Nov 2026 07:58:12 </lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 18:47:22 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS4.0.3.0.XPTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.306.0.WOWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.308.0.WFSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.19.0.VGWEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Tue, 10 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -399,11 +409,6 @@
         <item>
             <title>Xiaomi 18 Fold (lhasa) - OS4.0.26.0.XPNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lhasa/</link>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.18.0.VGWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Thu, 22 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -819,11 +824,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.216.0.VGQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.311.0.WPTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
             <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
