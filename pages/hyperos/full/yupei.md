@@ -52,7 +52,8 @@ permalink: /archive/hyperos/yupei/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Recovery</td><td>OS4.0.11.0.XPZCNXM</td><td>17.0</td><td>10.1 GB</td><td>2026-10-23</td><td><a href="/hyperos/yupei/stable/OS4.0.11.0.XPZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.12.0.XPZCNXM</td><td>17.0</td><td>10.1 GB</td><td>2026-11-03</td><td><a href="/hyperos/yupei/stable beta/OS4.0.12.0.XPZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Recovery</td><td>OS4.0.11.0.XPZCNXM</td><td>17.0</td><td>10.1 GB</td><td>2026-10-23</td><td><a href="/hyperos/yupei/stable/OS4.0.11.0.XPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.11.0.XPZCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-10-21</td><td><a href="/hyperos/yupei/stable/OS4.0.11.0.XPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Recovery</td><td>OS4.0.10.0.XPZCNXM</td><td>17.0</td><td>10.1 GB</td><td>2026-10-17</td><td><a href="/hyperos/yupei/stable/OS4.0.10.0.XPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.10.0.XPZCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-10-15</td><td><a href="/hyperos/yupei/stable/OS4.0.10.0.XPZCNXM/">Download</a></td></tr>
@@ -84,10 +85,10 @@ permalink: /archive/hyperos/yupei/
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPZMIXM</td><td>16.0</td><td>10.2 GB</td><td>2026-04-07</td><td><a href="/hyperos/yupei/stable/OS3.0.302.0.WPZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPZRUXM</td><td>16.0</td><td>8.2 GB</td><td>2026-04-03</td><td><a href="/hyperos/yupei/stable/OS3.0.302.0.WPZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPZRUXM</td><td>16.0</td><td>10.4 GB</td><td>2026-03-28</td><td><a href="/hyperos/yupei/stable/OS3.0.302.0.WPZRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.12.0.WPZCNXM</td><td>16.0</td><td>9.4 GB</td><td>2026-02-04</td><td><a href="/hyperos/yupei/stable/OS3.0.12.0.WPZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.12.0.WPZCNXM</td><td>16.0</td><td>10.9 GB</td><td>2026-01-23</td><td><a href="/hyperos/yupei/stable/OS3.0.12.0.WPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPZIDDM</td><td>16.0</td><td>8.3 GB</td><td>2026-04-10</td><td><a href="/hyperos/yupei/stable/OS3.0.302.0.WPZIDDM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPZIDDM</td><td>16.0</td><td>9.7 GB</td><td>2026-04-01</td><td><a href="/hyperos/yupei/stable/OS3.0.302.0.WPZIDDM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.12.0.WPZCNXM</td><td>16.0</td><td>9.4 GB</td><td>2026-02-04</td><td><a href="/hyperos/yupei/stable/OS3.0.12.0.WPZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.12.0.WPZCNXM</td><td>16.0</td><td>10.9 GB</td><td>2026-01-23</td><td><a href="/hyperos/yupei/stable/OS3.0.12.0.WPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.11.0.WPZCNXM</td><td>16.0</td><td>9.3 GB</td><td>2026-01-12</td><td><a href="/hyperos/yupei/stable/OS3.0.11.0.WPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.11.0.WPZCNXM</td><td>16.0</td><td>11.0 GB</td><td>2025-12-24</td><td><a href="/hyperos/yupei/stable/OS3.0.11.0.WPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 / Xiaomi Pad 9 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WPZCNXM</td><td>16.0</td><td>9.3 GB</td><td>2025-12-18</td><td><a href="/hyperos/yupei/stable/OS3.0.10.0.WPZCNXM/">Download</a></td></tr>
