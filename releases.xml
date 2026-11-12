@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 12 Nov 2026 05:04:19 </lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 12:47:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.310.0.WAVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17T (chagall) - OS4.0.3.0.XPTCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
@@ -639,11 +644,6 @@
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.305.0.WHYMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.309.0.WAVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>

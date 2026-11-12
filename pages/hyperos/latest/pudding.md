@@ -54,7 +54,7 @@ permalink: /hyperos/pudding/
                 <tbody>
                 <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XPCCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-10-21</td><td><a href="/hyperos/pudding/stable/OS4.0.5.0.XPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XPCCNXM</td><td>17.0</td><td>8.5 GB</td><td>2026-10-23</td><td><a href="/hyperos/pudding/stable/OS4.0.5.0.XPCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.317.0.WPCCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-07-22</td><td><a href="/hyperos/pudding/stable beta/OS3.0.317.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.6.0.XPCCNXM</td><td>17.0</td><td>8.5 GB</td><td>2026-11-03</td><td><a href="/hyperos/pudding/stable beta/OS4.0.6.0.XPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.335.0.XPCEUXM</td><td>17.0</td><td>9.8 GB</td><td>2026-09-29</td><td><a href="/hyperos/pudding/stable/OS3.0.335.0.XPCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.335.0.XPCEUXM</td><td>17.0</td><td>8.3 GB</td><td>2026-10-12</td><td><a href="/hyperos/pudding/stable/OS3.0.335.0.XPCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.331.0.XPCEUXM</td><td>17.0</td><td>8.3 GB</td><td>2026-07-13</td><td><a href="/hyperos/pudding/stable beta/OS3.0.331.0.XPCEUXM/">Download</a></td></tr>
