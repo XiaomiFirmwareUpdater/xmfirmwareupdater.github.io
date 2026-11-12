@@ -69,8 +69,10 @@ permalink: /hyperos/iolite/
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WDQRUXM</td><td>16.0</td><td>5.3 GB</td><td>2026-11-03</td><td><a href="/hyperos/iolite/stable/OS3.0.304.0.WDQRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WDQTRXM</td><td>16.0</td><td>7.7 GB</td><td>2026-09-09</td><td><a href="/hyperos/iolite/stable/OS3.0.303.0.WDQTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WDQTRXM</td><td>16.0</td><td>5.4 GB</td><td>2026-09-24</td><td><a href="/hyperos/iolite/stable/OS3.0.303.0.WDQTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro 5G / POCO X8 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WDQTRXM</td><td>16.0</td><td>5.4 GB</td><td>2026-11-09</td><td><a href="/hyperos/iolite/stable beta/OS3.0.304.0.WDQTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WDQTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-09-03</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WDQTWXM</td><td>16.0</td><td>5.2 GB</td><td>2026-09-09</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro 5G / POCO X8 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WDQTWXM</td><td>16.0</td><td>5.2 GB</td><td>2026-11-09</td><td><a href="/hyperos/iolite/stable beta/OS3.0.306.0.WDQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
