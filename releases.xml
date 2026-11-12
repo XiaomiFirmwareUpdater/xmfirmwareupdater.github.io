@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 12 Nov 2026 12:47:09 </lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 13:39:25 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.310.0.WAVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.306.0.WPOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Thu, 12 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -954,11 +959,6 @@
         <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.213.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.305.0.WPOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
