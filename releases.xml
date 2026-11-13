@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 12 Nov 2026 19:45:45 </lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 07:19:25 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.308.0.WDQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.310.0.WAVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
@@ -984,11 +989,6 @@
         <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.309.0.WMCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.307.0.WDQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
             <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
