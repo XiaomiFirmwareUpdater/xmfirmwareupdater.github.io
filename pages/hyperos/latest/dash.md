@@ -52,7 +52,7 @@ permalink: /hyperos/dash/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.7.0.WPLCNXM</td><td>16.0</td><td>7.9 GB</td><td>2026-01-30</td><td><a href="/hyperos/dash/stable beta/OS3.0.7.0.WPLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.4.0.XPLCNXM</td><td>17.0</td><td>8.7 GB</td><td>2026-11-10</td><td><a href="/hyperos/dash/stable beta/OS4.0.4.0.XPLCNXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPLEUXM</td><td>16.0</td><td>10.1 GB</td><td>2026-10-12</td><td><a href="/hyperos/dash/stable/OS3.0.304.0.WPLEUXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPLEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-10-16</td><td><a href="/hyperos/dash/stable/OS3.0.304.0.WPLEUXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPLMIXM</td><td>16.0</td><td>10.9 GB</td><td>2026-09-22</td><td><a href="/hyperos/dash/stable/OS3.0.304.0.WPLMIXM/">Download</a></td></tr>

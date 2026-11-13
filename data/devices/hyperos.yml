@@ -5248,6 +5248,12 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.301.0.WPLCNXM-user-16.0-fefb9aa1d8.zip
   name: Redmi Turbo 5 Max/POCO X8 Pro Max
   version: OS3.0.301.0.WPLCNXM
+- android: '17.0'
+  codename: dash
+  date: '2026-11-13'
+  download: https://bigota.d.miui.com/OS4.0.4.0.XPLCNXM/fw_dash_dash-ota_full-OS4.0.4.0.XPLCNXM-user-17.0-81a5c2e9c7.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS4.0.4.0.XPLCNXM
 - android: '16.0'
   codename: dash
   date: '2026-09-08'
@@ -9330,6 +9336,18 @@
   version: OS2.0.207.0.VPWMIXM
 - android: '16.0'
   codename: flute
+  date: '2026-11-13'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPWEUXM/fw_flute_flute_eea_global-ota_full-OS3.0.304.0.WPWEUXM-user-16.0-18d8af530d.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS3.0.304.0.WPWEUXM
+- android: '16.0'
+  codename: flute
+  date: '2026-11-13'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPWMIXM/fw_flute_flute_global-ota_full-OS3.0.304.0.WPWMIXM-user-16.0-e28bdd3f8b.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS3.0.304.0.WPWMIXM
+- android: '16.0'
+  codename: flute
   date: '2026-09-08'
   download: https://bigota.d.miui.com/OS3.0.4.0.WPWMIXM/fw_flute_flute_global-ota_full-OS3.0.4.0.WPWMIXM-user-16.0-7e82331271.zip
   name: Redmi Pad 2 Pro/POCO Pad M1
@@ -9724,6 +9742,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.10.0.UMCEUXM_d976b0852b_14.0.zip
   name: Xiaomi 13
   version: OS1.0.10.0.UMCEUXM
+- android: '16.0'
+  codename: fuxi
+  date: '2026-11-13'
+  download: https://bigota.d.miui.com/OS3.0.310.0.WMCCNXM/fw_fuxi_fuxi-ota_full-OS3.0.310.0.WMCCNXM-user-16.0-e13481f873.zip
+  name: Xiaomi 13
+  version: OS3.0.310.0.WMCCNXM
 - android: '15.0'
   codename: fuxi
   date: '2025-08-13'
@@ -19434,6 +19458,12 @@
   version: OS1.0.7.0.UMBEUXM
 - android: '16.0'
   codename: nuwa
+  date: '2026-11-13'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WMBEUXM/fw_nuwa_nuwa_eea_global-ota_full-OS3.0.304.0.WMBEUXM-user-16.0-095492fd16.zip
+  name: Xiaomi 13 Pro
+  version: OS3.0.304.0.WMBEUXM
+- android: '16.0'
+  codename: nuwa
   date: '2026-04-13'
   download: https://bigota.d.miui.com/OS3.0.3.0.WMBEUXM/fw_nuwa_nuwa_eea_global-ota_full-OS3.0.3.0.WMBEUXM-user-16.0-01976e32d5.zip
   name: Xiaomi 13 Pro
@@ -20338,6 +20368,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VPXEUXM/fw_organ_organ_eea_global-ota_full-OS2.0.204.0.VPXEUXM-user-15.0-59405db2d3.zip
   name: Redmi Pad 2 Pro 5G
   version: OS2.0.204.0.VPXEUXM
+- android: '16.0'
+  codename: organ
+  date: '2026-11-13'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPXEUXM/fw_organ_organ_eea_global-ota_full-OS3.0.304.0.WPXEUXM-user-16.0-705c4d9555.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS3.0.304.0.WPXEUXM
 - android: '16.0'
   codename: organ
   date: '2026-10-12'

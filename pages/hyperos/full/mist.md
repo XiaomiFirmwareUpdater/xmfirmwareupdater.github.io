@@ -52,7 +52,8 @@ permalink: /archive/hyperos/mist/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 17 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WPUEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-11-03</td><td><a href="/hyperos/mist/stable beta/OS3.0.307.0.WPUEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 17 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WPUEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-11-03</td><td><a href="/hyperos/mist/stable/OS3.0.307.0.WPUEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WPUEUXM</td><td>16.0</td><td>7.5 GB</td><td>2026-10-29</td><td><a href="/hyperos/mist/stable/OS3.0.307.0.WPUEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPUIDXM</td><td>16.0</td><td>4.9 GB</td><td>2026-10-19</td><td><a href="/hyperos/mist/stable/OS3.0.302.0.WPUIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPUIDXM</td><td>16.0</td><td>7.7 GB</td><td>2026-09-14</td><td><a href="/hyperos/mist/stable/OS3.0.302.0.WPUIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPUTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-10-19</td><td><a href="/hyperos/mist/stable/OS3.0.302.0.WPUTRXM/">Download</a></td></tr>
