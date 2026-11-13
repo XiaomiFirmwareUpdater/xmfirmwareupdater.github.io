@@ -29236,6 +29236,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOVCNXM/fw_taiko_taiko-ota_full-OS2.0.203.0.VOVCNXM-user-15.0-1dbd4b57f2.zip
   name: Redmi Pad 2
   version: OS2.0.203.0.VOVCNXM
+- android: '16.0'
+  codename: taiko
+  date: '2026-11-13'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOVINXM/fw_taiko_taiko_in_global-ota_full-OS3.0.303.0.WOVINXM-user-16.0-756667ecc7.zip
+  name: Redmi Pad 2
+  version: OS3.0.303.0.WOVINXM
 - android: '15.0'
   codename: taiko
   date: '2025-07-10'

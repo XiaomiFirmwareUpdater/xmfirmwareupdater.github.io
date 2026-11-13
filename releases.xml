@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 13 Nov 2026 18:48:03 </lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 20:07:14 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS4.0.4.0.XPLCNXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.304.0.WPXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.303.0.WOVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Fri, 13 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1420,11 +1425,6 @@
             <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.307.0.WDTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
             <pubDate>Sat, 05 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.302.0.WOVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12S (sea) - OS2.0.211.0.VHZEUXM</title>
