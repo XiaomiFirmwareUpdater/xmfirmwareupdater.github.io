@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 14 Nov 2026 18:45:56 </lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 21:04:03 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.303.0.WNREUXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS4.0.5.0.XPJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klee/</link>
+            <pubDate>Sat, 14 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad 2 (yili) - OS4.0.4.0.XAKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yili/</link>
             <pubDate>Sat, 14 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -239,11 +244,6 @@
         <item>
             <title>Redmi K90 Max (prague) - OS4.0.5.0.XAACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/prague/</link>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K Pad 2 (yili) - OS4.0.3.0.XAKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yili/</link>
             <pubDate>Wed, 04 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>

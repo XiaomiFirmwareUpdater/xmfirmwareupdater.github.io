@@ -33618,6 +33618,12 @@
   version: OS3.0.301.0.WAKCNXM
 - android: '17.0'
   codename: yili
+  date: '2026-11-14'
+  download: https://bigota.d.miui.com/OS4.0.4.0.XAKCNXM/fw_yili_yili-ota_full-OS4.0.4.0.XAKCNXM-user-17.0-8ff850d615.zip
+  name: Redmi K Pad 2
+  version: OS4.0.4.0.XAKCNXM
+- android: '17.0'
+  codename: yili
   date: '2026-11-04'
   download: https://bigota.d.miui.com/OS4.0.3.0.XAKCNXM/fw_yili_yili-ota_full-OS4.0.3.0.XAKCNXM-user-17.0-880867934a.zip
   name: Redmi K Pad 2
