@@ -18689,6 +18689,26 @@
     android: '16.0'
     miui: OS3.0.5.0.WNJCNXM
 - branch: stable
+  date: '2026-11-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-15.11.2026/fw_chenfeng_chenfeng-ota_full-OS3.0.310.0.WNJCNXM-user-16.0-d4b8d0785d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chenfeng/fw_chenfeng_chenfeng-ota_full-OS3.0.310.0.WNJCNXM-user-16.0-d4b8d0785d.zip
+  filename: fw_chenfeng_chenfeng-ota_full-OS3.0.310.0.WNJCNXM-user-16.0-d4b8d0785d.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.310.0.WNJCNXM
+- branch: stable
+  date: '2026-11-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-15.11.2026/fw_chenfeng_chenfeng_in_global-ota_full-OS3.0.304.0.WNJINXM-user-16.0-31154e8c9e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chenfeng/fw_chenfeng_chenfeng_in_global-ota_full-OS3.0.304.0.WNJINXM-user-16.0-31154e8c9e.zip
+  filename: fw_chenfeng_chenfeng_in_global-ota_full-OS3.0.304.0.WNJINXM-user-16.0-31154e8c9e.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WNJINXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-15.06.2024/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.3.0.UNJINXM_815b0414b4_14.0.zip
