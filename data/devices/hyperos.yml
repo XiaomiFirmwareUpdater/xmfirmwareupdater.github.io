@@ -2494,6 +2494,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VOQCNXM/fw_beryl_beryl-ota_full-OS2.0.2.0.VOQCNXM-user-15.0-03a06b7f84.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS2.0.2.0.VOQCNXM
+- android: '16.0'
+  codename: beryl
+  date: '2026-11-16'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOQINXM/fw_beryl_beryl_in_global-ota_full-OS3.0.303.0.WOQINXM-user-16.0-ec2e1f86e6.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS3.0.303.0.WOQINXM
 - android: '15.0'
   codename: beryl
   date: '2025-07-16'
@@ -3124,6 +3130,12 @@
   download: https://bigota.d.miui.com/OS3.0.308.0.WPTMIXM/fw_chagall_chagall_global-ota_full-OS3.0.308.0.WPTMIXM-user-16.0-caa9c6f6e2.zip
   name: Xiaomi 17T
   version: OS3.0.308.0.WPTMIXM
+- android: '17.0'
+  codename: chagall
+  date: '2026-11-16'
+  download: https://bigota.d.miui.com/OS4.0.5.0.XPTCNXM/fw_chagall_chagall-ota_full-OS4.0.5.0.XPTCNXM-user-17.0-83ab331c78.zip
+  name: Xiaomi 17T
+  version: OS4.0.5.0.XPTCNXM
 - android: '16.0'
   codename: chagall
   date: '2026-09-11'

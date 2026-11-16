@@ -52,7 +52,8 @@ permalink: /archive/hyperos/myron/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K90 Pro Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.6.0.XPMCNXM</td><td>17.0</td><td>10.2 GB</td><td>2026-11-03</td><td><a href="/hyperos/myron/stable beta/OS4.0.6.0.XPMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.6.0.XPMCNXM</td><td>17.0</td><td>10.2 GB</td><td>2026-11-03</td><td><a href="/hyperos/myron/stable/OS4.0.6.0.XPMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.6.0.XPMCNXM</td><td>17.0</td><td>13.3 GB</td><td>2026-10-26</td><td><a href="/hyperos/myron/stable/OS4.0.6.0.XPMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XPMCNXM</td><td>17.0</td><td>10.2 GB</td><td>2026-10-23</td><td><a href="/hyperos/myron/stable/OS4.0.5.0.XPMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XPMCNXM</td><td>17.0</td><td>13.2 GB</td><td>2026-10-21</td><td><a href="/hyperos/myron/stable/OS4.0.5.0.XPMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.4.0.XPMCNXM</td><td>17.0</td><td>10.2 GB</td><td>2026-10-17</td><td><a href="/hyperos/myron/stable/OS4.0.4.0.XPMCNXM/">Download</a></td></tr>
