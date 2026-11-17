@@ -104569,6 +104569,16 @@
     android: '16.0'
     miui: OS3.0.303.0.WHYEUXM
 - branch: stable
+  date: '2026-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-17.11.2026/fw_spark_spark_global-ota_full-OS3.0.306.0.WHYMIXM-user-16.0-b7519c08cb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spark/fw_spark_spark_global-ota_full-OS3.0.306.0.WHYMIXM-user-16.0-b7519c08cb.zip
+  filename: fw_spark_spark_global-ota_full-OS3.0.306.0.WHYMIXM-user-16.0-b7519c08cb.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WHYMIXM
+- branch: stable
   date: '2024-08-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-15.08.2024/fw_spark_miui_SPARKINGlobal_OS1.0.2.0.UHYINXM_9c5c84380e_14.0.zip
@@ -110569,6 +110579,16 @@
     android: '14.0'
     miui: OS1.0.12.0.UMTMIXM
 - branch: stable
+  date: '2026-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-17.11.2026/fw_tapas_tapas_in_global-ota_full-OS2.0.206.0.VMTINXM-user-15.0-86043c94f8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tapas/fw_tapas_tapas_in_global-ota_full-OS2.0.206.0.VMTINXM-user-15.0-86043c94f8.zip
+  filename: fw_tapas_tapas_in_global-ota_full-OS2.0.206.0.VMTINXM-user-15.0-86043c94f8.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.206.0.VMTINXM
+- branch: stable
   date: '2024-03-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-15.03.2024/fw_tapas_miui_TAPASINGlobal_OS1.0.3.0.UMTINXM_efaaddb3ed_14.0.zip
@@ -112618,6 +112638,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.309.0.WPOINXM
+- branch: stable
+  date: '2026-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-17.11.2026/fw_tornado_tornado_in_global-ota_full-OS3.0.310.0.WPOINXM-user-16.0-8cdfa30df6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tornado/fw_tornado_tornado_in_global-ota_full-OS3.0.310.0.WPOINXM-user-16.0-8cdfa30df6.zip
+  filename: fw_tornado_tornado_in_global-ota_full-OS3.0.310.0.WPOINXM-user-16.0-8cdfa30df6.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.310.0.WPOINXM
 - branch: stable
   date: '2026-03-16'
   downloads:

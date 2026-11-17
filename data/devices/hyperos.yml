@@ -28090,6 +28090,12 @@
   download: https://bigota.d.miui.com/OS3.0.303.0.WHYEUXM/fw_spark_spark_eea_global-ota_full-OS3.0.303.0.WHYEUXM-user-16.0-603ef9ffdd.zip
   name: Redmi Pad SE 8.7 4G
   version: OS3.0.303.0.WHYEUXM
+- android: '16.0'
+  codename: spark
+  date: '2026-11-17'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WHYMIXM/fw_spark_spark_global-ota_full-OS3.0.306.0.WHYMIXM-user-16.0-b7519c08cb.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.306.0.WHYMIXM
 - android: '14.0'
   codename: spark
   date: '2024-08-15'
@@ -29992,6 +29998,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.12.0.UMTMIXM_7ac90a0ee7_14.0.zip
   name: Redmi Note 12 4G
   version: OS1.0.12.0.UMTMIXM
+- android: '15.0'
+  codename: tapas
+  date: '2026-11-17'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VMTINXM/fw_tapas_tapas_in_global-ota_full-OS2.0.206.0.VMTINXM-user-15.0-86043c94f8.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.206.0.VMTINXM
 - android: '14.0'
   codename: tapas
   date: '2024-03-15'
@@ -30550,6 +30562,12 @@
   download: https://bigota.d.miui.com/OS3.0.309.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.309.0.WPOINXM-user-16.0-6fee62fee2.zip
   name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.309.0.WPOINXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-11-17'
+  download: https://bigota.d.miui.com/OS3.0.310.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.310.0.WPOINXM-user-16.0-8cdfa30df6.zip
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
+  version: OS3.0.310.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2026-03-16'

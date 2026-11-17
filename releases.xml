@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 17 Nov 2026 12:46:45 </lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 13:33:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.308.0.WPRMIXM</title>
@@ -34,6 +34,21 @@
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.307.0.WNNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.306.0.WHYMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G (tapas) - OS2.0.206.0.VMTINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.310.0.WPOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Tue, 17 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -737,11 +752,6 @@
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.305.0.WHYMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.303.0.WOQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
             <pubDate>Sat, 10 Oct 2026 00:00:00 </pubDate>
@@ -1020,11 +1030,6 @@
             <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.306.0.WPOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.309.0.WPOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.306.0.WOPEUXM</title>
@@ -1474,11 +1479,6 @@
         <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.211.0.VNHMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G (tapas) - OS2.0.205.0.VMTINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

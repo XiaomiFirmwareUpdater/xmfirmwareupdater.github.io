@@ -29,12 +29,12 @@
     android: '16.0'
     miui: OS3.0.306.0.WPOEUXM
 - branch: stable
-  date: '2026-09-18'
+  date: '2026-11-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-18.09.2026/fw_tornado_tornado_in_global-ota_full-OS3.0.309.0.WPOINXM-user-16.0-6fee62fee2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tornado/fw_tornado_tornado_in_global-ota_full-OS3.0.309.0.WPOINXM-user-16.0-6fee62fee2.zip
-  filename: fw_tornado_tornado_in_global-ota_full-OS3.0.309.0.WPOINXM-user-16.0-6fee62fee2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-17.11.2026/fw_tornado_tornado_in_global-ota_full-OS3.0.310.0.WPOINXM-user-16.0-8cdfa30df6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tornado/fw_tornado_tornado_in_global-ota_full-OS3.0.310.0.WPOINXM-user-16.0-8cdfa30df6.zip
+  filename: fw_tornado_tornado_in_global-ota_full-OS3.0.310.0.WPOINXM-user-16.0-8cdfa30df6.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.309.0.WPOINXM
+    miui: OS3.0.310.0.WPOINXM
