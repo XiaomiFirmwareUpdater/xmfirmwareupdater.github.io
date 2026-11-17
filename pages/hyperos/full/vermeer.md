@@ -52,7 +52,8 @@ permalink: /archive/hyperos/vermeer/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F6 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WNKMIXM</td><td>16.0</td><td>7.2 GB</td><td>2026-11-10</td><td><a href="/hyperos/vermeer/stable beta/OS3.0.306.0.WNKMIXM/">Download</a></td></tr>
+                <tr><td>Redmi K70 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.308.0.WNKCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-11-10</td><td><a href="/hyperos/vermeer/stable beta/OS3.0.308.0.WNKCNXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WNKMIXM</td><td>16.0</td><td>7.2 GB</td><td>2026-11-10</td><td><a href="/hyperos/vermeer/stable beta/OS3.0.306.0.WNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNKRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-10-28</td><td><a href="/hyperos/vermeer/stable/OS3.0.303.0.WNKRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNKRUXM</td><td>16.0</td><td>10.4 GB</td><td>2026-09-17</td><td><a href="/hyperos/vermeer/stable/OS3.0.303.0.WNKRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNKTWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-10-28</td><td><a href="/hyperos/vermeer/stable/OS3.0.303.0.WNKTWXM/">Download</a></td></tr>

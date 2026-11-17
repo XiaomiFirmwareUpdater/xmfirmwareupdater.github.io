@@ -9168,6 +9168,18 @@
   version: OS3.0.2.0.WPRCNXM
 - android: '16.0'
   codename: flourite
+  date: '2026-11-17'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WPRMIXM/fw_flourite_flourite_global-ota_full-OS3.0.308.0.WPRMIXM-user-16.0-41559f4835.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.308.0.WPRMIXM
+- android: '16.0'
+  codename: flourite
+  date: '2026-11-17'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WPRINXM/fw_flourite_flourite_in_global-ota_full-OS3.0.306.0.WPRINXM-user-16.0-2fbadd6359.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.306.0.WPRINXM
+- android: '16.0'
+  codename: flourite
   date: '2026-09-08'
   download: https://bigota.d.miui.com/OS3.0.304.0.WPRCNXM/fw_flourite_flourite-ota_full-OS3.0.304.0.WPRCNXM-user-16.0-2de6a6fe00.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
@@ -13122,6 +13134,12 @@
   version: OS3.0.302.0.WDQINXM
 - android: '16.0'
   codename: iolite
+  date: '2026-11-17'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WDQINXM/fw_iolite_iolite_in_global-ota_full-OS3.0.303.0.WDQINXM-user-16.0-e5ac1b237a.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.303.0.WDQINXM
+- android: '16.0'
+  codename: iolite
   date: '2026-09-17'
   download: https://bigota.d.miui.com/OS3.0.307.0.WDQEUXM/fw_iolite_iolite_eea_global-ota_full-OS3.0.307.0.WDQEUXM-user-16.0-4abcf55078.zip
   name: Redmi Note 17 Pro 5G/POCO X8
@@ -15886,6 +15904,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.13.0.UOOCNXM_e630a3e60c_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS1.0.13.0.UOOCNXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-11-17'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WOOEUXM/fw_malachite_malachite_eea_global-ota_full-OS3.0.305.0.WOOEUXM-user-16.0-0ddce2ec14.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.305.0.WOOEUXM
 - android: '15.0'
   codename: malachite
   date: '2025-11-17'
@@ -24172,6 +24196,12 @@
   download: https://bigota.d.miui.com/OS1.0.27.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.27.0.UNNCNXM_4f58497328_14.0.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.27.0.UNNCNXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-11-17'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.307.0.WNNEUXM-user-16.0-2a282bbae7.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.307.0.WNNEUXM
 - android: '15.0'
   codename: rothko
   date: '2026-09-09'
