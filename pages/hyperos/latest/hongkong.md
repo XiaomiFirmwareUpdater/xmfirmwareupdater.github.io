@@ -55,6 +55,16 @@ permalink: /hyperos/hongkong/
                 <tr><td>Xiaomi 18 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.29.0.XFRCNXM</td><td>17.0</td><td>15.1 GB</td><td>2026-10-30</td><td><a href="/hyperos/hongkong/stable/OS4.0.29.0.XFRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 18 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.29.0.XFRCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-11-02</td><td><a href="/hyperos/hongkong/stable/OS4.0.29.0.XFRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 18 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.4.0.XFRCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-09-23</td><td><a href="/hyperos/hongkong/stable beta/OS4.0.4.0.XFRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS4.0.7.0.XFREUXM</td><td>17.0</td><td>13.1 GB</td><td>2026-11-13</td><td><a href="/hyperos/hongkong/stable/OS4.0.7.0.XFREUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS4.0.7.0.XFREUXM</td><td>17.0</td><td>11.8 GB</td><td>2026-11-17</td><td><a href="/hyperos/hongkong/stable/OS4.0.7.0.XFREUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS4.0.4.0.XFRMIXM</td><td>17.0</td><td>14.0 GB</td><td>2026-11-09</td><td><a href="/hyperos/hongkong/stable/OS4.0.4.0.XFRMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS4.0.4.0.XFRMIXM</td><td>17.0</td><td>11.8 GB</td><td>2026-11-17</td><td><a href="/hyperos/hongkong/stable/OS4.0.4.0.XFRMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS4.0.2.0.XFRIDXM</td><td>17.0</td><td>13.2 GB</td><td>2026-11-09</td><td><a href="/hyperos/hongkong/stable/OS4.0.2.0.XFRIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS4.0.2.0.XFRIDXM</td><td>17.0</td><td>11.8 GB</td><td>2026-11-17</td><td><a href="/hyperos/hongkong/stable/OS4.0.2.0.XFRIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS4.0.3.0.XFRJPXM</td><td>17.0</td><td>13.0 GB</td><td>2026-11-04</td><td><a href="/hyperos/hongkong/stable/OS4.0.3.0.XFRJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS4.0.3.0.XFRJPXM</td><td>17.0</td><td>11.8 GB</td><td>2026-11-10</td><td><a href="/hyperos/hongkong/stable/OS4.0.3.0.XFRJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS4.0.1.0.XFRRUXM</td><td>17.0</td><td>13.8 GB</td><td>2026-10-27</td><td><a href="/hyperos/hongkong/stable/OS4.0.1.0.XFRRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS4.0.1.0.XFRRUXM</td><td>17.0</td><td>10.7 GB</td><td>2026-11-17</td><td><a href="/hyperos/hongkong/stable/OS4.0.1.0.XFRRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
