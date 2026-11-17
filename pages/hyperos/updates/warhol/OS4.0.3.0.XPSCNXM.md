@@ -56,22 +56,22 @@ permalink: /hyperos/warhol/stable/OS4.0.3.0.XPSCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>13.6 GB</h5>
+                    <h5><b>Size: </b>9.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-21</h5>
+                    <h5><b>Release Date: </b>2026-10-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6bafc3e79c1a3b29866a9a8e3814c202</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6f4b05782696786534fc7ec508053f9b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#warhol_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/warhol/stable/OS4.0.3.0.XPSCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.2 GB</h5>
+                    <h5><b>Size: </b>13.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-26</h5>
+                    <h5><b>Release Date: </b>2026-10-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6f4b05782696786534fc7ec508053f9b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6bafc3e79c1a3b29866a9a8e3814c202</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.3.0.XPSCNXM/warhol-ota_full-OS4.0.3.0.XPSCNXM-user-17.0-6f4b057826.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.3.0.XPSCNXM/warhol_images_OS4.0.3.0.XPSCNXM_20261021.0000.00_17.0_cn_6bafc3e79c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#warhol_2_changelog" data-toggle="collapse" role="button"
