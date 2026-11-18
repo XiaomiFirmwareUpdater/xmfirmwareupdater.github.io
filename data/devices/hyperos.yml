@@ -322,6 +322,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UGQEUXM/fw_air_miui_AIREEAGlobal_OS1.0.6.0.UGQEUXM_ad3c2fcf17_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS1.0.6.0.UGQEUXM
+- android: '15.0'
+  codename: air
+  date: '2026-11-18'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VGQMIXM/fw_air_air_global-ota_full-OS2.0.209.0.VGQMIXM-user-15.0-332077227f.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.209.0.VGQMIXM
 - android: '14.0'
   codename: air
   date: '2024-07-18'
