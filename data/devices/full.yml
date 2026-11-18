@@ -29909,6 +29909,16 @@
     android: '15.0'
     miui: OS2.0.132.0.VODCNXM
 - branch: stable
+  date: '2026-11-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-18.11.2026/fw_dijun_dijun-ota_full-OS4.0.5.0.XODCNXM-user-17.0-1ce32e4d82.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/dijun/fw_dijun_dijun-ota_full-OS4.0.5.0.XODCNXM-user-17.0-1ce32e4d82.zip
+  filename: fw_dijun_dijun-ota_full-OS4.0.5.0.XODCNXM-user-17.0-1ce32e4d82.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.5.0.XODCNXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-16.07.2025/fw_dijun_dijun-ota_full-OS2.0.205.0.VODCNXM-user-15.0-60d544e8e0.zip

@@ -5788,6 +5788,12 @@
   download: https://bigota.d.miui.com/OS2.0.132.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.132.0.VODCNXM-user-15.0-11be016805.zip
   name: Xiaomi 15S Pro
   version: OS2.0.132.0.VODCNXM
+- android: '17.0'
+  codename: dijun
+  date: '2026-11-18'
+  download: https://bigota.d.miui.com/OS4.0.5.0.XODCNXM/fw_dijun_dijun-ota_full-OS4.0.5.0.XODCNXM-user-17.0-1ce32e4d82.zip
+  name: Xiaomi 15S Pro
+  version: OS4.0.5.0.XODCNXM
 - android: '15.0'
   codename: dijun
   date: '2026-09-08'

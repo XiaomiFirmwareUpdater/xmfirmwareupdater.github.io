@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2026-10-09'
+  date: '2026-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-09.10.2026/fw_dijun_dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dijun/fw_dijun_dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip
-  filename: fw_dijun_dijun-ota_full-OS3.0.304.0.WODCNXM-user-16.0-67dca2cb87.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-18.11.2026/fw_dijun_dijun-ota_full-OS4.0.5.0.XODCNXM-user-17.0-1ce32e4d82.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/dijun/fw_dijun_dijun-ota_full-OS4.0.5.0.XODCNXM-user-17.0-1ce32e4d82.zip
+  filename: fw_dijun_dijun-ota_full-OS4.0.5.0.XODCNXM-user-17.0-1ce32e4d82.zip
   region: China
   versions:
-    android: '16.0'
-    miui: OS3.0.304.0.WODCNXM
+    android: '17.0'
+    miui: OS4.0.5.0.XODCNXM

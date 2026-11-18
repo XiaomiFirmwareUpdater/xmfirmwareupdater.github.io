@@ -52,14 +52,14 @@ permalink: /archive/hyperos/dijun/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WODCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-09-28</td><td><a href="/hyperos/dijun/stable/OS3.0.304.0.WODCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XODCNXM</td><td>17.0</td><td>7.8 GB</td><td>2026-11-14</td><td><a href="/hyperos/dijun/stable/OS4.0.5.0.XODCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XODCNXM</td><td>17.0</td><td>10.2 GB</td><td>2026-11-12</td><td><a href="/hyperos/dijun/stable/OS4.0.5.0.XODCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WODCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-09-28</td><td><a href="/hyperos/dijun/stable/OS3.0.304.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WODCNXM</td><td>16.0</td><td>9.8 GB</td><td>2026-09-21</td><td><a href="/hyperos/dijun/stable/OS3.0.304.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WODCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-07-30</td><td><a href="/hyperos/dijun/stable/OS3.0.303.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WODCNXM</td><td>16.0</td><td>9.8 GB</td><td>2026-07-21</td><td><a href="/hyperos/dijun/stable/OS3.0.303.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WODCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-05-18</td><td><a href="/hyperos/dijun/stable/OS3.0.302.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WODCNXM</td><td>16.0</td><td>9.7 GB</td><td>2026-04-16</td><td><a href="/hyperos/dijun/stable/OS3.0.302.0.WODCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WODCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-03-18</td><td><a href="/hyperos/dijun/stable/OS3.0.301.0.WODCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WODCNXM</td><td>16.0</td><td>9.7 GB</td><td>2026-03-11</td><td><a href="/hyperos/dijun/stable/OS3.0.301.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.11.0.WODCNXM</td><td>16.0</td><td>7.3 GB</td><td>2026-02-11</td><td><a href="/hyperos/dijun/stable/OS3.0.11.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.11.0.WODCNXM</td><td>16.0</td><td>9.5 GB</td><td>2026-02-06</td><td><a href="/hyperos/dijun/stable/OS3.0.11.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WODCNXM</td><td>16.0</td><td>7.3 GB</td><td>2026-01-20</td><td><a href="/hyperos/dijun/stable/OS3.0.10.0.WODCNXM/">Download</a></td></tr>
@@ -76,6 +76,8 @@ permalink: /archive/hyperos/dijun/
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.132.0.VODCNXM</td><td>15.0</td><td>9.2 GB</td><td>2025-06-10</td><td><a href="/hyperos/dijun/stable/OS2.0.132.0.VODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.128.0.VODCNXM</td><td>15.0</td><td>7.0 GB</td><td>2025-06-04</td><td><a href="/hyperos/dijun/stable/OS2.0.128.0.VODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.128.0.VODCNXM</td><td>15.0</td><td>9.2 GB</td><td>2025-05-28</td><td><a href="/hyperos/dijun/stable/OS2.0.128.0.VODCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WODCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-03-18</td><td><a href="/hyperos/dijun/stable/OS3.0.301.0.WODCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WODCNXM</td><td>16.0</td><td>9.7 GB</td><td>2026-03-11</td><td><a href="/hyperos/dijun/stable/OS3.0.301.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VODCNXM</td><td>15.0</td><td>7.0 GB</td><td>2025-07-08</td><td><a href="/hyperos/dijun/stable/OS2.0.205.0.VODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VODCNXM</td><td>15.0</td><td>9.3 GB</td><td>2025-07-03</td><td><a href="/hyperos/dijun/stable/OS2.0.205.0.VODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.126.0.VODCNXM</td><td>15.0</td><td>7.0 GB</td><td>2025-05-27</td><td><a href="/hyperos/dijun/stable/OS2.0.126.0.VODCNXM/">Download</a></td></tr>
