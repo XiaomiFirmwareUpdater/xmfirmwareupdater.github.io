@@ -1,0 +1,6 @@
+  <url>
+    <loc>{{ include.path | replace: '/index.html', '/' | uri_escape | prepend: site.url | xml_escape }}</loc>
+    {%- if include.lastmod %}
+    <lastmod>{{ include.lastmod | date_to_xmlschema | xml_escape }}</lastmod>
+    {%- endif %}
+  </url>

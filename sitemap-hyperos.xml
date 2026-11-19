@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /sitemap-hyperos.xml
+sitemap: false
+sitemap_section: hyperos
+---
+{% include sitemap-section.xml %}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- if page.sitemap_section == 'pages' %}
+    {%- assign collections = site.collections | where_exp: 'collection', 'collection.output != false' %}
+    {%- for collection in collections %}
+      {%- for doc in collection.docs %}
+        {%- if doc.sitemap != false %}
+          {%- assign lastmod = doc.last_modified_at | default: doc.date %}
+          {% include sitemap-url.xml path=doc.url lastmod=lastmod -%}
+        {%- endif %}
+      {%- endfor %}
+    {%- endfor %}
+    {%- assign static_extensions = '.htm,.html,.xhtml,.pdf' | split: ',' %}
+    {%- for file in site.static_files %}
+      {%- if static_extensions contains file.extname and file.sitemap != false and file.name != '404.html' %}
+        {% include sitemap-url.xml path=file.path lastmod=file.modified_time -%}
+      {%- endif %}
+    {%- endfor %}
+  {%- endif %}
+  {%- assign download_types = 'miui,hyperos,firmware,vendor' | split: ',' %}
+  {%- for doc in site.html_pages %}
+    {%- if doc.sitemap == false or doc.url == '/404.html' %}
+      {%- continue %}
+    {%- endif %}
+    {%- assign segments = doc.url | split: '/' %}
+    {%- assign type = segments[1] %}
+    {%- assign section = 'pages' %}
+    {%- if type == 'archive' %}
+      {%- assign section = 'devices' %}
+    {%- elsif download_types contains type %}
+      {%- if segments.size > 3 %}
+        {%- assign section = type %}
+      {%- elsif segments.size == 3 %}
+        {%- assign section = 'devices' %}
+      {%- endif %}
+    {%- endif %}
+    {%- if page.sitemap_section == section %}
+      {% include sitemap-url.xml path=doc.url lastmod=doc.last_modified_at -%}
+    {%- endif %}
+  {%- endfor %}
+</urlset>

@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /sitemap-devices.xml
+sitemap: false
+sitemap_section: devices
+---
+{% include sitemap-section.xml %}

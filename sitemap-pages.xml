@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /sitemap-pages.xml
+sitemap: false
+sitemap_section: pages
+---
+{% include sitemap-section.xml %}

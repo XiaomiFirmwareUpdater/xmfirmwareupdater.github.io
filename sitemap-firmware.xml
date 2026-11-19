@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /sitemap-firmware.xml
+sitemap: false
+sitemap_section: firmware
+---
+{% include sitemap-section.xml %}

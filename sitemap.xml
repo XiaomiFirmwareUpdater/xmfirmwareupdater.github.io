@@ -1,0 +1,15 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- comment %}shortcut: one file per section until a section reaches the sitemap size or URL limit.{% endcomment %}
+  {%- assign children = site.pages | where_exp: 'child', 'child.sitemap_section' | sort: 'url' %}
+  {%- for child in children %}
+  <sitemap>
+    <loc>{{ child.url | prepend: site.url | xml_escape }}</loc>
+  </sitemap>
+  {%- endfor %}
+</sitemapindex>

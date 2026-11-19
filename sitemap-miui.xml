@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /sitemap-miui.xml
+sitemap: false
+sitemap_section: miui
+---
+{% include sitemap-section.xml %}

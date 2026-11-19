@@ -11,7 +11,6 @@ email: contact@xmfirmwareupdater.com
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 members:
   - berkantkz
