@@ -53689,6 +53689,16 @@
     android: '15.0'
     miui: OS2.0.104.0.VOXCNXM
 - branch: stable
+  date: '2026-11-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jinghu/releases/download/stable-18.11.2026/fw_jinghu_jinghu-ota_full-OS4.0.5.0.XOXCNXM-user-17.0-773ff38a78.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/jinghu/fw_jinghu_jinghu-ota_full-OS4.0.5.0.XOXCNXM-user-17.0-773ff38a78.zip
+  filename: fw_jinghu_jinghu-ota_full-OS4.0.5.0.XOXCNXM-user-17.0-773ff38a78.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.5.0.XOXCNXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jinghu/releases/download/stable-16.11.2025/fw_jinghu_jinghu-ota_full-OS3.0.5.0.WOXCNXM-user-16.0-1df6d3fec2.zip
@@ -54848,6 +54858,16 @@
   versions:
     android: '17.0'
     miui: OS3.0.337.0.XOSMIXM
+- branch: stable
+  date: '2026-11-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-18.11.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.342.0.XOSEUXM-user-17.0-5ea9cd45b1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.342.0.XOSEUXM-user-17.0-5ea9cd45b1.zip
+  filename: fw_klimt_klimt_eea_global-ota_full-OS3.0.342.0.XOSEUXM-user-17.0-5ea9cd45b1.zip
+  region: Europe
+  versions:
+    android: '17.0'
+    miui: OS3.0.342.0.XOSEUXM
 - branch: stable
   date: '2026-09-08'
   downloads:
@@ -58268,6 +58288,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.306.0.WDTMIXM
+- branch: stable
+  date: '2026-11-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_leedsa/releases/download/stable-18.11.2026/fw_leedsa_leedsa_global-ota_full-OS3.0.311.0.WDTMIXM-user-16.0-4a0b69c810.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/leedsa/fw_leedsa_leedsa_global-ota_full-OS3.0.311.0.WDTMIXM-user-16.0-4a0b69c810.zip
+  filename: fw_leedsa_leedsa_global-ota_full-OS3.0.311.0.WDTMIXM-user-16.0-4a0b69c810.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.311.0.WDTMIXM
 - branch: stable
   date: '2026-11-17'
   downloads:

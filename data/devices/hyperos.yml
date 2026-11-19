@@ -13696,6 +13696,12 @@
   download: https://bigota.d.miui.com/OS2.0.104.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.104.0.VOXCNXM-user-15.0-52a8adc79d.zip
   name: Xiaomi Pad 7 Ultra
   version: OS2.0.104.0.VOXCNXM
+- android: '17.0'
+  codename: jinghu
+  date: '2026-11-18'
+  download: https://bigota.d.miui.com/OS4.0.5.0.XOXCNXM/fw_jinghu_jinghu-ota_full-OS4.0.5.0.XOXCNXM-user-17.0-773ff38a78.zip
+  name: Xiaomi Pad 7 Ultra
+  version: OS4.0.5.0.XOXCNXM
 - android: '16.0'
   codename: jinghu
   date: '2026-09-08'
@@ -13954,6 +13960,12 @@
   download: https://bigota.d.miui.com/OS3.0.337.0.XOSMIXM/fw_klimt_klimt_global-ota_full-OS3.0.337.0.XOSMIXM-user-17.0-6c9da01403.zip
   name: Xiaomi 15T Pro
   version: OS3.0.337.0.XOSMIXM
+- android: '17.0'
+  codename: klimt
+  date: '2026-11-18'
+  download: https://bigota.d.miui.com/OS3.0.342.0.XOSEUXM/fw_klimt_klimt_eea_global-ota_full-OS3.0.342.0.XOSEUXM-user-17.0-5ea9cd45b1.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.342.0.XOSEUXM
 - android: '16.0'
   codename: klimt
   date: '2026-09-08'
@@ -14884,6 +14896,12 @@
   download: https://bigota.d.miui.com/OS3.0.306.0.WDTMIXM/fw_leedsa_leedsa_global-ota_full-OS3.0.306.0.WDTMIXM-user-16.0-7e693c762c.zip
   name: Redmi 17/POCO C95 Pro
   version: OS3.0.306.0.WDTMIXM
+- android: '16.0'
+  codename: leedsa
+  date: '2026-11-18'
+  download: https://bigota.d.miui.com/OS3.0.311.0.WDTMIXM/fw_leedsa_leedsa_global-ota_full-OS3.0.311.0.WDTMIXM-user-16.0-4a0b69c810.zip
+  name: Redmi 17/POCO C95 Pro
+  version: OS3.0.311.0.WDTMIXM
 - android: '16.0'
   codename: leedsa
   date: '2026-11-17'

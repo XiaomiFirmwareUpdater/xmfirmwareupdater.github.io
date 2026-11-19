@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 18 Nov 2026 15:40:25 </lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 06:49:36 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.209.0.VGQMIXM</title>
@@ -14,6 +14,21 @@
         <item>
             <title>Xiaomi 15S Pro (dijun) - OS4.0.5.0.XODCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 Ultra (jinghu) - OS4.0.5.0.XOXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.342.0.XOSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.311.0.WDTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
             <pubDate>Wed, 18 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -507,11 +522,6 @@
             <pubDate>Mon, 26 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 Ultra (jinghu) - OS3.0.306.0.WOXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.305.0.WPPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Mon, 26 Oct 2026 00:00:00 </pubDate>
@@ -603,11 +613,6 @@
         </item>
         <item>
             <title>Xiaomi 15T Pro (klimt) - OS3.0.337.0.XOSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T Pro (klimt) - OS3.0.341.0.XOSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
             <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
         </item>
@@ -864,11 +869,6 @@
         <item>
             <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.304.0.WPQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.302.0.WDTMIDM</title>
-            <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
             <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>

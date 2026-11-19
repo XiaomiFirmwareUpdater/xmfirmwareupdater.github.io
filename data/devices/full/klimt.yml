@@ -159,6 +159,16 @@
     android: '17.0'
     miui: OS3.0.337.0.XOSMIXM
 - branch: stable
+  date: '2026-11-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-18.11.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.342.0.XOSEUXM-user-17.0-5ea9cd45b1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.342.0.XOSEUXM-user-17.0-5ea9cd45b1.zip
+  filename: fw_klimt_klimt_eea_global-ota_full-OS3.0.342.0.XOSEUXM-user-17.0-5ea9cd45b1.zip
+  region: Europe
+  versions:
+    android: '17.0'
+    miui: OS3.0.342.0.XOSEUXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-15.06.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.304.0.WOSEUXM-user-16.0-3077ab4a4d.zip
