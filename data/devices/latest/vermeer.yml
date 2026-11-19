@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2026-09-01'
+  date: '2026-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-01.09.2026/fw_vermeer_vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/vermeer/fw_vermeer_vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip
-  filename: fw_vermeer_vermeer_global-ota_full-OS3.0.304.0.WNKMIXM-user-16.0-ea3932c8f8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-19.11.2026/fw_vermeer_vermeer_global-ota_full-OS3.0.306.0.WNKMIXM-user-16.0-0b08ae792e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/vermeer/fw_vermeer_vermeer_global-ota_full-OS3.0.306.0.WNKMIXM-user-16.0-0b08ae792e.zip
+  filename: fw_vermeer_vermeer_global-ota_full-OS3.0.306.0.WNKMIXM-user-16.0-0b08ae792e.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WNKMIXM
+    miui: OS3.0.306.0.WNKMIXM
 - branch: stable
-  date: '2026-10-21'
+  date: '2026-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-21.10.2026/fw_vermeer_vermeer-ota_full-OS2.0.218.0.VNKCNXM-user-15.0-d894a157b4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/vermeer/fw_vermeer_vermeer-ota_full-OS2.0.218.0.VNKCNXM-user-15.0-d894a157b4.zip
-  filename: fw_vermeer_vermeer-ota_full-OS2.0.218.0.VNKCNXM-user-15.0-d894a157b4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-19.11.2026/fw_vermeer_vermeer-ota_full-OS3.0.308.0.WNKCNXM-user-16.0-0534f299eb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/vermeer/fw_vermeer_vermeer-ota_full-OS3.0.308.0.WNKCNXM-user-16.0-0534f299eb.zip
+  filename: fw_vermeer_vermeer-ota_full-OS3.0.308.0.WNKCNXM-user-16.0-0534f299eb.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.218.0.VNKCNXM
+    android: '16.0'
+    miui: OS3.0.308.0.WNKCNXM
 - branch: stable
   date: '2026-10-09'
   downloads:
