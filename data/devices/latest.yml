@@ -2139,15 +2139,15 @@
     android: '16.0'
     miui: OS3.0.303.0.WGUINXM
 - branch: stable
-  date: '2026-10-08'
+  date: '2026-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-08.10.2026/fw_flare_flare_global-ota_full-OS3.0.303.0.WHXMIXM-user-16.0-5737ce6962.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flare/fw_flare_flare_global-ota_full-OS3.0.303.0.WHXMIXM-user-16.0-5737ce6962.zip
-  filename: fw_flare_flare_global-ota_full-OS3.0.303.0.WHXMIXM-user-16.0-5737ce6962.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-20.11.2026/fw_flare_flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flare/fw_flare_flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip
+  filename: fw_flare_flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WHXMIXM
+    miui: OS3.0.304.0.WHXMIXM
 - branch: stable
   date: '2026-10-21'
   downloads:
@@ -5399,15 +5399,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2026-11-04'
+  date: '2026-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prague/releases/download/stable-04.11.2026/fw_prague_prague-ota_full-OS4.0.5.0.XAACNXM-user-17.0-8a4200c881.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/prague/fw_prague_prague-ota_full-OS4.0.5.0.XAACNXM-user-17.0-8a4200c881.zip
-  filename: fw_prague_prague-ota_full-OS4.0.5.0.XAACNXM-user-17.0-8a4200c881.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prague/releases/download/stable-20.11.2026/fw_prague_prague-ota_full-OS4.0.6.0.XAACNXM-user-17.0-caca5f793d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/prague/fw_prague_prague-ota_full-OS4.0.6.0.XAACNXM-user-17.0-caca5f793d.zip
+  filename: fw_prague_prague-ota_full-OS4.0.6.0.XAACNXM-user-17.0-caca5f793d.zip
   region: China
   versions:
     android: '17.0'
-    miui: OS4.0.5.0.XAACNXM
+    miui: OS4.0.6.0.XAACNXM
 - branch: stable
   date: '2024-12-16'
   downloads:
@@ -5749,15 +5749,15 @@
     android: '16.0'
     miui: OS3.0.304.0.WOJMIXM
 - branch: stable
-  date: '2026-09-21'
+  date: '2026-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-22.09.2026/fw_rodin_rodin-ota_full-OS3.0.305.0.WOJCNXM-user-16.0-d97c4c15e4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin-ota_full-OS3.0.305.0.WOJCNXM-user-16.0-d97c4c15e4.zip
-  filename: fw_rodin_rodin-ota_full-OS3.0.305.0.WOJCNXM-user-16.0-d97c4c15e4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-20.11.2026/fw_rodin_rodin-ota_full-OS4.0.4.0.XOJCNXM-user-17.0-4f53a233f4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/rodin/fw_rodin_rodin-ota_full-OS4.0.4.0.XOJCNXM-user-17.0-4f53a233f4.zip
+  filename: fw_rodin_rodin-ota_full-OS4.0.4.0.XOJCNXM-user-17.0-4f53a233f4.zip
   region: China
   versions:
-    android: '16.0'
-    miui: OS3.0.305.0.WOJCNXM
+    android: '17.0'
+    miui: OS4.0.4.0.XOJCNXM
 - branch: stable
   date: '2026-11-03'
   downloads:

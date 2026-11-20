@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 20 Nov 2026 09:29:25 </lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 19:16:02 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.304.0.WHXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Max (prague) - OS4.0.6.0.XAACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS4.0.4.0.XOJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.303.0.WOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
@@ -354,11 +369,6 @@
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.309.0.WPTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Max (prague) - OS4.0.5.0.XAACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
             <pubDate>Wed, 04 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -857,11 +867,6 @@
             <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.303.0.WHXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.303.0.WHXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
@@ -1035,11 +1040,6 @@
             <title>Redmi 15C/POCO C85 (dew) - OS3.0.307.0.WBNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dew/</link>
             <pubDate>Thu, 24 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.305.0.WOJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.213.0.VNGMIXM</title>

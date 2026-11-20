@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-20.11.2026/fw_flare_flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flare/fw_flare_flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip
+  filename: fw_flare_flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WHXMIXM
+- branch: stable
   date: '2025-08-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-30.08.2025/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.203.0.VHXEUXM-user-15.0-e09c9eec2c.zip

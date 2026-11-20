@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.304.0.WOJMIXM
 - branch: stable
-  date: '2026-09-21'
+  date: '2026-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-22.09.2026/fw_rodin_rodin-ota_full-OS3.0.305.0.WOJCNXM-user-16.0-d97c4c15e4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin-ota_full-OS3.0.305.0.WOJCNXM-user-16.0-d97c4c15e4.zip
-  filename: fw_rodin_rodin-ota_full-OS3.0.305.0.WOJCNXM-user-16.0-d97c4c15e4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-20.11.2026/fw_rodin_rodin-ota_full-OS4.0.4.0.XOJCNXM-user-17.0-4f53a233f4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/rodin/fw_rodin_rodin-ota_full-OS4.0.4.0.XOJCNXM-user-17.0-4f53a233f4.zip
+  filename: fw_rodin_rodin-ota_full-OS4.0.4.0.XOJCNXM-user-17.0-4f53a233f4.zip
   region: China
   versions:
-    android: '16.0'
-    miui: OS3.0.305.0.WOJCNXM
+    android: '17.0'
+    miui: OS4.0.4.0.XOJCNXM
 - branch: stable
   date: '2026-11-03'
   downloads:
