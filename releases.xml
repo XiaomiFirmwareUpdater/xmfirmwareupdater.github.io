@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 19 Nov 2026 18:51:16 </lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 04:14:39 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.303.0.WOQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.305.0.WOUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
@@ -1095,11 +1100,6 @@
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.304.0.WOPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
             <pubDate>Sat, 12 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.302.0.WOQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 17 (pudding) - OS3.0.36.0.WPCCNXM</title>

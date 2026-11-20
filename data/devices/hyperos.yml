@@ -2278,6 +2278,12 @@
   download: https://bigota.d.miui.com/OS3.0.304.0.WMVCNXM/fw_babylon_babylon-ota_full-OS3.0.304.0.WMVCNXM-user-16.0-c94b3b1f6e.zip
   name: MIX Fold 3
   version: OS3.0.304.0.WMVCNXM
+- android: '16.0'
+  codename: beryl
+  date: '2026-11-19'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOQEUXM/fw_beryl_beryl_eea_global-ota_full-OS3.0.303.0.WOQEUXM-user-16.0-e425904c64.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS3.0.303.0.WOQEUXM
 - android: '15.0'
   codename: beryl
   date: '2025-12-31'
