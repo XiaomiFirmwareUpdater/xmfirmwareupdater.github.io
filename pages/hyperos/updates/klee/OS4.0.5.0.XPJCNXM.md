@@ -3,7 +3,7 @@ title: Redmi Turbo 5 China HyperOS OS4.0.5.0.XPJCNXM Update
 layout: download
 name: Redmi Turbo 5 China
 codename: klee
-permalink: /hyperos/klee/stable beta/OS4.0.5.0.XPJCNXM/
+permalink: /hyperos/klee/stable/OS4.0.5.0.XPJCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/klee/stable beta/OS4.0.5.0.XPJCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.5.0.XPJCNXM Stable Beta Official Update for Redmi Turbo 5 China (klee)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.5.0.XPJCNXM Stable Official Update for Redmi Turbo 5 China (klee)</h3>
     <h5>This page shows the OS4.0.5.0.XPJCNXM update only. If you're looking for other updates check
         <a href="/hyperos/klee/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/klee/stable beta/OS4.0.5.0.XPJCNXM/
                     <h5><b>Version: </b>OS4.0.5.0.XPJCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/klee/stable beta/OS4.0.5.0.XPJCNXM/
                             aria-expanded="false" aria-controls="klee_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="klee_1_changelog">
+                        <p id="changelog_text"></p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Turbo 5 China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/klee/" target="_blank">klee</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS4.0.5.0.XPJCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>11.2 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-11-06</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klee_images_OS4.0.5.0.XPJCNXM_20261106.0000.00_17.0_cn_ff1748e9e3.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ff1748e9e30543b29595a1d3bd21c813</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.5.0.XPJCNXM/klee_images_OS4.0.5.0.XPJCNXM_20261106.0000.00_17.0_cn_ff1748e9e3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPJCNXM/klee_images_OS4.0.5.0.XPJCNXM_20261106.0000.00_17.0_cn_ff1748e9e3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.5.0.XPJCNXM/klee_images_OS4.0.5.0.XPJCNXM_20261106.0000.00_17.0_cn_ff1748e9e3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.5.0.XPJCNXM/klee_images_OS4.0.5.0.XPJCNXM_20261106.0000.00_17.0_cn_ff1748e9e3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.5.0.XPJCNXM/klee_images_OS4.0.5.0.XPJCNXM_20261106.0000.00_17.0_cn_ff1748e9e3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#klee_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="klee_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="klee_2_changelog">
                         <p id="changelog_text"></p>
                     </div>
                 </li>

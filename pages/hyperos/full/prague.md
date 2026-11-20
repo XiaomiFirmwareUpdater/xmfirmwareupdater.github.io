@@ -52,7 +52,10 @@ permalink: /archive/hyperos/prague/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.317.0.WAACNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-11</td><td><a href="/hyperos/prague/stable/OS3.0.317.0.WAACNXM/">Download</a></td></tr>
+                <tr><td>Redmi K90 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.6.0.XAACNXM</td><td>17.0</td><td>9.0 GB</td><td>2026-11-10</td><td><a href="/hyperos/prague/stable beta/OS4.0.6.0.XAACNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XAACNXM</td><td>17.0</td><td>8.9 GB</td><td>2026-10-26</td><td><a href="/hyperos/prague/stable/OS4.0.5.0.XAACNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XAACNXM</td><td>17.0</td><td>14.2 GB</td><td>2026-10-21</td><td><a href="/hyperos/prague/stable/OS4.0.5.0.XAACNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.317.0.WAACNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-11</td><td><a href="/hyperos/prague/stable/OS3.0.317.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.317.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-08-28</td><td><a href="/hyperos/prague/stable/OS3.0.317.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.316.0.WAACNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-08-04</td><td><a href="/hyperos/prague/stable/OS3.0.316.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.316.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-07-21</td><td><a href="/hyperos/prague/stable/OS3.0.316.0.WAACNXM/">Download</a></td></tr>
@@ -62,8 +65,6 @@ permalink: /archive/hyperos/prague/
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.311.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-05-19</td><td><a href="/hyperos/prague/stable/OS3.0.311.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WAACNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-05-07</td><td><a href="/hyperos/prague/stable/OS3.0.310.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-05-06</td><td><a href="/hyperos/prague/stable/OS3.0.310.0.WAACNXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XAACNXM</td><td>17.0</td><td>8.9 GB</td><td>2026-10-26</td><td><a href="/hyperos/prague/stable/OS4.0.5.0.XAACNXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XAACNXM</td><td>17.0</td><td>14.2 GB</td><td>2026-10-21</td><td><a href="/hyperos/prague/stable/OS4.0.5.0.XAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.308.0.WAACNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-23</td><td><a href="/hyperos/prague/stable/OS3.0.308.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.308.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-04-22</td><td><a href="/hyperos/prague/stable/OS3.0.308.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WAACNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-21</td><td><a href="/hyperos/prague/stable/OS3.0.304.0.WAACNXM/">Download</a></td></tr>
