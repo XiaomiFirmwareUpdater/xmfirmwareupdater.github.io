@@ -65,6 +65,7 @@ permalink: /hyperos/chagall/
 <tr><td>Xiaomi 17T Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WPTRUXM</td><td>16.0</td><td>7.4 GB</td><td>2026-11-10</td><td><a href="/hyperos/chagall/stable/OS3.0.305.0.WPTRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPTTRXM</td><td>16.0</td><td>9.0 GB</td><td>2026-08-28</td><td><a href="/hyperos/chagall/stable/OS3.0.304.0.WPTTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPTTRXM</td><td>16.0</td><td>7.4 GB</td><td>2026-09-15</td><td><a href="/hyperos/chagall/stable/OS3.0.304.0.WPTTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WPTTRXM</td><td>16.0</td><td>7.5 GB</td><td>2026-11-18</td><td><a href="/hyperos/chagall/stable beta/OS3.0.305.0.WPTTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WPTTWXM</td><td>16.0</td><td>8.3 GB</td><td>2026-11-02</td><td><a href="/hyperos/chagall/stable/OS3.0.309.0.WPTTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WPTTWXM</td><td>16.0</td><td>7.3 GB</td><td>2026-11-10</td><td><a href="/hyperos/chagall/stable/OS3.0.309.0.WPTTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.3.0.XPTCNXM</td><td>17.0</td><td>11.4 GB</td><td>2026-10-21</td><td><a href="/hyperos/chagall/stable/OS4.0.3.0.XPTCNXM/">Download</a></td></tr>
