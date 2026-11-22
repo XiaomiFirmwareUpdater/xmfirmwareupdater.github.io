@@ -17352,6 +17352,18 @@
   version: OS2.0.203.0.VOMMIXM
 - android: '16.0'
   codename: mist
+  date: '2026-11-22'
+  download: https://bigota.d.miui.com/OS3.0.312.0.WPUCNXM/fw_mist_mist-ota_full-OS3.0.312.0.WPUCNXM-user-16.0-24dcce4906.zip
+  name: Redmi Note 17 5G/POCO M8 Power 5G
+  version: OS3.0.312.0.WPUCNXM
+- android: '16.0'
+  codename: mist
+  date: '2026-11-22'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WPUINXM/fw_mist_mist_in_global-ota_full-OS3.0.307.0.WPUINXM-user-16.0-99d9f31bd8.zip
+  name: Redmi Note 17 5G/POCO M8 Power 5G
+  version: OS3.0.307.0.WPUINXM
+- android: '16.0'
+  codename: mist
   date: '2026-08-28'
   download: https://bigota.d.miui.com/OS3.0.302.0.WPUMIXM/fw_mist_mist_global-ota_full-OS3.0.302.0.WPUMIXM-user-16.0-998c6d2c07.zip
   name: Redmi Note 17 5G/POCO M8 Power 5G
