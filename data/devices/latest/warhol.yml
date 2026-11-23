@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-09-28'
+  date: '2026-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-28.09.2026/fw_warhol_warhol_global-ota_full-OS3.0.311.0.WPSMIXM-user-16.0-e29c8ad11a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warhol/fw_warhol_warhol_global-ota_full-OS3.0.311.0.WPSMIXM-user-16.0-e29c8ad11a.zip
-  filename: fw_warhol_warhol_global-ota_full-OS3.0.311.0.WPSMIXM-user-16.0-e29c8ad11a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-23.11.2026/fw_warhol_warhol_global-ota_full-OS4.0.6.0.XPSMIXM-user-17.0-e67e85745b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/warhol/fw_warhol_warhol_global-ota_full-OS4.0.6.0.XPSMIXM-user-17.0-e67e85745b.zip
+  filename: fw_warhol_warhol_global-ota_full-OS4.0.6.0.XPSMIXM-user-17.0-e67e85745b.zip
   region: Global
   versions:
-    android: '16.0'
-    miui: OS3.0.311.0.WPSMIXM
+    android: '17.0'
+    miui: OS4.0.6.0.XPSMIXM
 - branch: stable
   date: '2026-11-19'
   downloads:
@@ -19,12 +19,12 @@
     android: '17.0'
     miui: OS4.0.5.0.XPSCNXM
 - branch: stable
-  date: '2026-10-27'
+  date: '2026-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-27.10.2026/fw_warhol_warhol_eea_global-ota_full-OS3.0.312.0.WPSEUXM-user-16.0-c776053304.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warhol/fw_warhol_warhol_eea_global-ota_full-OS3.0.312.0.WPSEUXM-user-16.0-c776053304.zip
-  filename: fw_warhol_warhol_eea_global-ota_full-OS3.0.312.0.WPSEUXM-user-16.0-c776053304.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-23.11.2026/fw_warhol_warhol_eea_global-ota_full-OS3.0.313.0.WPSEUXM-user-16.0-c8e1601118.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warhol/fw_warhol_warhol_eea_global-ota_full-OS3.0.313.0.WPSEUXM-user-16.0-c8e1601118.zip
+  filename: fw_warhol_warhol_eea_global-ota_full-OS3.0.313.0.WPSEUXM-user-16.0-c8e1601118.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.312.0.WPSEUXM
+    miui: OS3.0.313.0.WPSEUXM

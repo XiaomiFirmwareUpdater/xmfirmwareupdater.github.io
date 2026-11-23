@@ -28944,6 +28944,12 @@
   version: OS1.0.3.0.UKACNXM
 - android: '16.0'
   codename: steppe
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WAVINXM/fw_steppe_steppe_in_global-ota_full-OS3.0.305.0.WAVINXM-user-16.0-79087f4d55.zip
+  name: Redmi M100/Redmi 17 5G/POCO M8x 5G
+  version: OS3.0.305.0.WAVINXM
+- android: '16.0'
+  codename: steppe
   date: '2026-09-30'
   download: https://bigota.d.miui.com/OS3.0.304.0.WAVINXM/fw_steppe_steppe_in_global-ota_full-OS3.0.304.0.WAVINXM-user-16.0-5f3494e5fc.zip
   name: Redmi M100/Redmi 17 5G/POCO M8x 5G
@@ -30594,6 +30600,12 @@
   version: OS2.0.8.0.VMGMIXM
 - android: '16.0'
   codename: tornado
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPOCNXM/fw_tornado_tornado-ota_full-OS3.0.305.0.WPOCNXM-user-16.0-cd1c5fa244.zip
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
+  version: OS3.0.305.0.WPOCNXM
+- android: '16.0'
+  codename: tornado
   date: '2026-11-22'
   download: https://bigota.d.miui.com/OS3.0.307.0.WPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS3.0.307.0.WPOEUXM-user-16.0-0e67085153.zip
   name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
@@ -30802,6 +30814,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.204.0.VPOINXM-user-15.0-9fb9ab7702.zip
   name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.204.0.VPOINXM
+- android: '17.0'
+  codename: turner
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS4.0.3.0.XAOCNXM/fw_turner_turner-ota_full-OS4.0.3.0.XAOCNXM-user-17.0-fef22c703e.zip
+  name: Redmi K Pad/Xiaomi Pad Mini
+  version: OS4.0.3.0.XAOCNXM
 - android: '16.0'
   codename: turner
   date: '2026-09-09'
@@ -32650,6 +32668,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.4.0.TGDMIXM_711b120a23_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.4.0.TGDMIXM
+- android: '16.0'
+  codename: warhol
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS3.0.313.0.WPSEUXM/fw_warhol_warhol_eea_global-ota_full-OS3.0.313.0.WPSEUXM-user-16.0-c8e1601118.zip
+  name: Xiaomi 17T Pro
+  version: OS3.0.313.0.WPSEUXM
+- android: '17.0'
+  codename: warhol
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS4.0.6.0.XPSMIXM/fw_warhol_warhol_global-ota_full-OS4.0.6.0.XPSMIXM-user-17.0-e67e85745b.zip
+  name: Xiaomi 17T Pro
+  version: OS4.0.6.0.XPSMIXM
 - android: '16.0'
   codename: warhol
   date: '2026-09-09'

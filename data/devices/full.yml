@@ -107339,6 +107339,16 @@
     android: '14.0'
     miui: OS1.0.3.0.UKACNXM
 - branch: stable
+  date: '2026-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_steppe/releases/download/stable-23.11.2026/fw_steppe_steppe_in_global-ota_full-OS3.0.305.0.WAVINXM-user-16.0-79087f4d55.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/steppe/fw_steppe_steppe_in_global-ota_full-OS3.0.305.0.WAVINXM-user-16.0-79087f4d55.zip
+  filename: fw_steppe_steppe_in_global-ota_full-OS3.0.305.0.WAVINXM-user-16.0-79087f4d55.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WAVINXM
+- branch: stable
   date: '2026-09-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_steppe/releases/download/stable-30.09.2026/fw_steppe_steppe_in_global-ota_full-OS3.0.304.0.WAVINXM-user-16.0-5f3494e5fc.zip
@@ -112689,6 +112699,16 @@
     android: '15.0'
     miui: OS2.0.8.0.VMGMIXM
 - branch: stable
+  date: '2026-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-23.11.2026/fw_tornado_tornado-ota_full-OS3.0.305.0.WPOCNXM-user-16.0-cd1c5fa244.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tornado/fw_tornado_tornado-ota_full-OS3.0.305.0.WPOCNXM-user-16.0-cd1c5fa244.zip
+  filename: fw_tornado_tornado-ota_full-OS3.0.305.0.WPOCNXM-user-16.0-cd1c5fa244.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WPOCNXM
+- branch: stable
   date: '2026-11-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-23.11.2026/fw_tornado_tornado_eea_global-ota_full-OS3.0.307.0.WPOEUXM-user-16.0-0e67085153.zip
@@ -114428,6 +114448,16 @@
   versions:
     android: '8.1'
     miui: V9.6.10.0.OEKMIFD
+- branch: stable
+  date: '2026-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-23.11.2026/fw_turner_turner-ota_full-OS4.0.3.0.XAOCNXM-user-17.0-fef22c703e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/turner/fw_turner_turner-ota_full-OS4.0.3.0.XAOCNXM-user-17.0-fef22c703e.zip
+  filename: fw_turner_turner-ota_full-OS4.0.3.0.XAOCNXM-user-17.0-fef22c703e.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.3.0.XAOCNXM
 - branch: stable
   date: '2026-09-09'
   downloads:
@@ -124488,6 +124518,26 @@
   versions:
     android: '11.0'
     miui: V13.0.5.0.RGDEUXM
+- branch: stable
+  date: '2026-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-23.11.2026/fw_warhol_warhol_eea_global-ota_full-OS3.0.313.0.WPSEUXM-user-16.0-c8e1601118.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warhol/fw_warhol_warhol_eea_global-ota_full-OS3.0.313.0.WPSEUXM-user-16.0-c8e1601118.zip
+  filename: fw_warhol_warhol_eea_global-ota_full-OS3.0.313.0.WPSEUXM-user-16.0-c8e1601118.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.313.0.WPSEUXM
+- branch: stable
+  date: '2026-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-23.11.2026/fw_warhol_warhol_global-ota_full-OS4.0.6.0.XPSMIXM-user-17.0-e67e85745b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/warhol/fw_warhol_warhol_global-ota_full-OS4.0.6.0.XPSMIXM-user-17.0-e67e85745b.zip
+  filename: fw_warhol_warhol_global-ota_full-OS4.0.6.0.XPSMIXM-user-17.0-e67e85745b.zip
+  region: Global
+  versions:
+    android: '17.0'
+    miui: OS4.0.6.0.XPSMIXM
 - branch: stable
   date: '2026-09-09'
   downloads:

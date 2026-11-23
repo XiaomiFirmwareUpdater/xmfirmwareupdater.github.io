@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 23 Nov 2026 13:02:47 </lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 16:51:56 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 17T (chagall) - OS4.0.8.0.XPTEUXM</title>
@@ -34,6 +34,31 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS4.0.4.0.XOYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.305.0.WAVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.305.0.WPOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS4.0.3.0.XAOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T Pro (warhol) - OS4.0.6.0.XPSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warhol/</link>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T Pro (warhol) - OS3.0.313.0.WPSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warhol/</link>
             <pubDate>Mon, 23 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -602,11 +627,6 @@
             <pubDate>Tue, 27 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17T Pro (warhol) - OS3.0.312.0.WPSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warhol/</link>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.303.0.WPWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
             <pubDate>Mon, 26 Oct 2026 00:00:00 </pubDate>
@@ -947,11 +967,6 @@
             <pubDate>Sun, 04 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.304.0.WAVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.305.0.WOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
@@ -1042,11 +1057,6 @@
             <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17T Pro (warhol) - OS3.0.311.0.WPSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warhol/</link>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 17 4G (zephyr) - OS3.0.307.0.WBUEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zephyr/</link>
             <pubDate>Sat, 26 Sep 2026 00:00:00 </pubDate>
@@ -1094,11 +1104,6 @@
         <item>
             <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.306.0.WAVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.310.0.WAOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1670,11 +1675,6 @@
             <title>Redmi K60E (rembrandt) - OS2.0.25.0.UMMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
             <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.302.0.WPOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad SE (xun) - OS2.0.208.0.VMUCNXM</title>
