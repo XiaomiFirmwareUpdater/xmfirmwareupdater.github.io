@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 23 Nov 2026 16:51:56 </lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 20:19:51 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 17T (chagall) - OS4.0.8.0.XPTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 4G (charoite) - OS4.0.9.0.XPFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Mon, 23 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -999,11 +1004,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.216.0.VGQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.304.0.WPFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Mon, 28 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>

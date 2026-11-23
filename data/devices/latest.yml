@@ -1099,15 +1099,15 @@
     android: '16.0'
     miui: OS3.0.306.0.WPTINXM
 - branch: stable
-  date: '2026-09-28'
+  date: '2026-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-28.09.2026/fw_charoite_charoite_global-ota_full-OS3.0.304.0.WPFMIXM-user-16.0-dc0d6394a2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/charoite/fw_charoite_charoite_global-ota_full-OS3.0.304.0.WPFMIXM-user-16.0-dc0d6394a2.zip
-  filename: fw_charoite_charoite_global-ota_full-OS3.0.304.0.WPFMIXM-user-16.0-dc0d6394a2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-23.11.2026/fw_charoite_charoite_global-ota_full-OS4.0.9.0.XPFMIXM-user-17.0-13c3410d55.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/charoite/fw_charoite_charoite_global-ota_full-OS4.0.9.0.XPFMIXM-user-17.0-13c3410d55.zip
+  filename: fw_charoite_charoite_global-ota_full-OS4.0.9.0.XPFMIXM-user-17.0-13c3410d55.zip
   region: Global
   versions:
-    android: '16.0'
-    miui: OS3.0.304.0.WPFMIXM
+    android: '17.0'
+    miui: OS4.0.9.0.XPFMIXM
 - branch: stable
   date: '2026-11-02'
   downloads:
