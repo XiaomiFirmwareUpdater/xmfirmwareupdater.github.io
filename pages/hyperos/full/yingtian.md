@@ -52,7 +52,8 @@ permalink: /archive/hyperos/yingtian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 9 Pro Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.21.0.XBMCNXM</td><td>17.0</td><td>10.6 GB</td><td>2026-11-13</td><td><a href="/hyperos/yingtian/stable beta/OS4.0.21.0.XBMCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 9 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.21.0.XBMCNXM</td><td>17.0</td><td>10.6 GB</td><td>2026-11-13</td><td><a href="/hyperos/yingtian/stable/OS4.0.21.0.XBMCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 9 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.21.0.XBMCNXM</td><td>17.0</td><td>12.9 GB</td><td>2026-11-12</td><td><a href="/hyperos/yingtian/stable/OS4.0.21.0.XBMCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 9 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.16.0.XBMCNXM</td><td>17.0</td><td>10.4 GB</td><td>2026-10-12</td><td><a href="/hyperos/yingtian/stable/OS4.0.16.0.XBMCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 9 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.16.0.XBMCNXM</td><td>17.0</td><td>12.7 GB</td><td>2026-09-28</td><td><a href="/hyperos/yingtian/stable/OS4.0.16.0.XBMCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 9 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.15.0.XBMCNXM</td><td>17.0</td><td>10.3 GB</td><td>2026-09-25</td><td><a href="/hyperos/yingtian/stable/OS4.0.15.0.XBMCNXM/">Download</a></td></tr>

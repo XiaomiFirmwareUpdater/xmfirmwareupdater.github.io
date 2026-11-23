@@ -54,6 +54,7 @@ permalink: /hyperos/tornado/
                 <tbody>
                 <tr><td>Redmi 15C 5G / 15R 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPOCNXM</td><td>16.0</td><td>8.0 GB</td><td>2026-04-20</td><td><a href="/hyperos/tornado/stable/OS3.0.302.0.WPOCNXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPOCNXM</td><td>16.0</td><td>5.5 GB</td><td>2026-04-27</td><td><a href="/hyperos/tornado/stable/OS3.0.302.0.WPOCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15C 5G / 15R 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WPOCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-11-18</td><td><a href="/hyperos/tornado/stable beta/OS3.0.305.0.WPOCNXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPOEUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-09-08</td><td><a href="/hyperos/tornado/stable/OS3.0.306.0.WPOEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPOEUXM</td><td>16.0</td><td>5.7 GB</td><td>2026-09-17</td><td><a href="/hyperos/tornado/stable/OS3.0.306.0.WPOEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WPOEUXM</td><td>16.0</td><td>5.7 GB</td><td>2026-11-18</td><td><a href="/hyperos/tornado/stable beta/OS3.0.307.0.WPOEUXM/">Download</a></td></tr>

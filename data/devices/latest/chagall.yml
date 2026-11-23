@@ -19,15 +19,15 @@
     android: '17.0'
     miui: OS4.0.5.0.XPTCNXM
 - branch: stable
-  date: '2026-10-31'
+  date: '2026-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-01.11.2026/fw_chagall_chagall_eea_global-ota_full-OS3.0.318.0.WPTEUXM-user-16.0-72644103d4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_eea_global-ota_full-OS3.0.318.0.WPTEUXM-user-16.0-72644103d4.zip
-  filename: fw_chagall_chagall_eea_global-ota_full-OS3.0.318.0.WPTEUXM-user-16.0-72644103d4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-23.11.2026/fw_chagall_chagall_eea_global-ota_full-OS4.0.8.0.XPTEUXM-user-17.0-b8b15216d9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/chagall/fw_chagall_chagall_eea_global-ota_full-OS4.0.8.0.XPTEUXM-user-17.0-b8b15216d9.zip
+  filename: fw_chagall_chagall_eea_global-ota_full-OS4.0.8.0.XPTEUXM-user-17.0-b8b15216d9.zip
   region: Europe
   versions:
-    android: '16.0'
-    miui: OS3.0.318.0.WPTEUXM
+    android: '17.0'
+    miui: OS4.0.8.0.XPTEUXM
 - branch: stable
   date: '2026-11-09'
   downloads:

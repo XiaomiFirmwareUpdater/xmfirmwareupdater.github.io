@@ -3112,6 +3112,12 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WAFCNXM/fw_byron_byron-ota_full-OS3.0.301.0.WAFCNXM-user-16.0-3b8f263428.zip
   name: Xiaomi 17 Max
   version: OS3.0.301.0.WAFCNXM
+- android: '17.0'
+  codename: chagall
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS4.0.8.0.XPTEUXM/fw_chagall_chagall_eea_global-ota_full-OS4.0.8.0.XPTEUXM-user-17.0-b8b15216d9.zip
+  name: Xiaomi 17T
+  version: OS4.0.8.0.XPTEUXM
 - android: '16.0'
   codename: chagall
   date: '2026-09-28'
@@ -7726,6 +7732,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKYCNXM/fw_elish_miui_ELISH_OS1.0.1.0.TKYCNXM_3bbd2d29c2_13.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: OS1.0.1.0.TKYCNXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNFEUXM/fw_emerald_emerald_eea_global-ota_full-OS3.0.304.0.WNFEUXM-user-16.0-b526190385.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.304.0.WNFEUXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WFOMIXM/fw_emerald_emerald_r_global-ota_full-OS3.0.307.0.WFOMIXM-user-16.0-9b9c0f14f9.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.307.0.WFOMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-08-30'
@@ -13764,6 +13782,12 @@
   version: OS2.0.110.0.VOXCNXM
 - android: '17.0'
   codename: klee
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS4.0.8.0.XPJEUXM/fw_klee_klee_eea_global-ota_full-OS4.0.8.0.XPJEUXM-user-17.0-43ceacf96c.zip
+  name: Redmi Turbo 5/POCO X8 Pro
+  version: OS4.0.8.0.XPJEUXM
+- android: '17.0'
+  codename: klee
   date: '2026-10-30'
   download: https://bigota.d.miui.com/OS4.0.3.0.XPJCNXM/fw_klee_klee-ota_full-OS4.0.3.0.XPJCNXM-user-17.0-3578778f20.zip
   name: Redmi Turbo 5/POCO X8 Pro
@@ -17830,6 +17854,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VMNMIXM/fw_mondrian_global_mondrian_global-ota_full-OS2.0.201.0.VMNMIXM-user-15.0-acb7b60b4e.zip
   name: Redmi K60/POCO F5 Pro
   version: OS2.0.201.0.VMNMIXM
+- android: '16.0'
+  codename: moon
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WNTMIXM/fw_moon_moon_global-ota_full-OS3.0.306.0.WNTMIXM-user-16.0-c875cca6e5.zip
+  name: Redmi 13/POCO M6
+  version: OS3.0.306.0.WNTMIXM
 - android: '14.0'
   codename: moon
   date: '2024-09-30'
@@ -18658,6 +18688,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.2.0.ULMINXM_73863dbefb_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.2.0.ULMINXM
+- android: '17.0'
+  codename: muyu
+  date: '2026-11-23'
+  download: https://bigota.d.miui.com/OS4.0.4.0.XOYCNXM/fw_muyu_muyu-ota_full-OS4.0.4.0.XOYCNXM-user-17.0-335271daa4.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS4.0.4.0.XOYCNXM
 - android: '15.0'
   codename: muyu
   date: '2026-09-08'

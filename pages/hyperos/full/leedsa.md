@@ -54,7 +54,8 @@ permalink: /archive/hyperos/leedsa/
                 <tbody>
                 <tr><td>Redmi 17 / POCO C95 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.311.0.WDTMIXM</td><td>16.0</td><td>5.2 GB</td><td>2026-11-17</td><td><a href="/hyperos/leedsa/stable beta/OS3.0.311.0.WDTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 17 / POCO C95 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WDTRUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-11-16</td><td><a href="/hyperos/leedsa/stable beta/OS3.0.306.0.WDTRUXM/">Download</a></td></tr>
-<tr><td>Redmi 17 / POCO C95 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.308.0.WDTEUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-11-13</td><td><a href="/hyperos/leedsa/stable beta/OS3.0.308.0.WDTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 17 / POCO C95 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.308.0.WDTEUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-11-13</td><td><a href="/hyperos/leedsa/stable/OS3.0.308.0.WDTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 17 / POCO C95 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.308.0.WDTEUXM</td><td>16.0</td><td>7.7 GB</td><td>2026-11-06</td><td><a href="/hyperos/leedsa/stable/OS3.0.308.0.WDTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 17 / POCO C95 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WDTRUXM</td><td>16.0</td><td>4.9 GB</td><td>2026-10-08</td><td><a href="/hyperos/leedsa/stable/OS3.0.305.0.WDTRUXM/">Download</a></td></tr>
 <tr><td>Redmi 17 / POCO C95 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WDTRUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-09-18</td><td><a href="/hyperos/leedsa/stable/OS3.0.305.0.WDTRUXM/">Download</a></td></tr>
 <tr><td>Redmi 17 / POCO C95 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WDTTWXM</td><td>16.0</td><td>4.9 GB</td><td>2026-10-08</td><td><a href="/hyperos/leedsa/stable/OS3.0.303.0.WDTTWXM/">Download</a></td></tr>

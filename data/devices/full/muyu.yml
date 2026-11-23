@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-23.11.2026/fw_muyu_muyu-ota_full-OS4.0.4.0.XOYCNXM-user-17.0-335271daa4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/muyu/fw_muyu_muyu-ota_full-OS4.0.4.0.XOYCNXM-user-17.0-335271daa4.zip
+  filename: fw_muyu_muyu-ota_full-OS4.0.4.0.XOYCNXM-user-17.0-335271daa4.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.4.0.XOYCNXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-31.10.2025/fw_muyu_muyu_eea_global-ota_full-OS2.0.204.0.VOYEUXM-user-15.0-21d97ee01a.zip

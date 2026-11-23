@@ -65,9 +65,8 @@ permalink: /hyperos/xuanyuan/
 <tr><td>Xiaomi 15 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOAINXM</td><td>16.0</td><td>8.9 GB</td><td>2026-09-21</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.303.0.WOAINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOARUXM</td><td>16.0</td><td>11.5 GB</td><td>2026-07-24</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.302.0.WOARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOARUXM</td><td>16.0</td><td>8.9 GB</td><td>2026-08-14</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.302.0.WOARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOATWXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-24</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.302.0.WOATWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOATWXM</td><td>16.0</td><td>8.9 GB</td><td>2026-08-14</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.302.0.WOATWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Ultra Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WOATWXM</td><td>16.0</td><td>9.0 GB</td><td>2026-11-11</td><td><a href="/hyperos/xuanyuan/stable beta/OS3.0.303.0.WOATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOATWXM</td><td>16.0</td><td>10.0 GB</td><td>2026-11-04</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.303.0.WOATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOATWXM</td><td>16.0</td><td>9.0 GB</td><td>2026-11-11</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.303.0.WOATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VOATRXM</td><td>15.0</td><td>9.9 GB</td><td>2025-01-16</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.2.0.VOATRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VOATRXM</td><td>15.0</td><td>8.3 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.2.0.VOATRXM/">Download</a></td></tr>
 
