@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-11-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-24.11.2026/fw_dew_dew_global-ota_full-OS4.0.8.0.XBNMIXM-user-17.0-bff6fad64d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/dew/fw_dew_dew_global-ota_full-OS4.0.8.0.XBNMIXM-user-17.0-bff6fad64d.zip
+  filename: fw_dew_dew_global-ota_full-OS4.0.8.0.XBNMIXM-user-17.0-bff6fad64d.zip
+  region: Global
+  versions:
+    android: '17.0'
+    miui: OS4.0.8.0.XBNMIXM
+- branch: stable
   date: '2025-12-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-29.12.2025/fw_dew_dew_global-ota_full-OS2.0.217.0.VBNMIXM-user-15.0-bd6ae1fd81.zip
