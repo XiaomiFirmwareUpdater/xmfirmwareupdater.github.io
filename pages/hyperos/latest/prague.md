@@ -52,9 +52,8 @@ permalink: /hyperos/prague/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K90 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.6.0.XAACNXM</td><td>17.0</td><td>9.0 GB</td><td>2026-11-10</td><td><a href="/hyperos/prague/stable beta/OS4.0.6.0.XAACNXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XAACNXM</td><td>17.0</td><td>14.2 GB</td><td>2026-10-21</td><td><a href="/hyperos/prague/stable/OS4.0.5.0.XAACNXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XAACNXM</td><td>17.0</td><td>8.9 GB</td><td>2026-10-26</td><td><a href="/hyperos/prague/stable/OS4.0.5.0.XAACNXM/">Download</a></td></tr>
+                <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.6.0.XAACNXM</td><td>17.0</td><td>14.2 GB</td><td>2026-10-29</td><td><a href="/hyperos/prague/stable/OS4.0.6.0.XAACNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.6.0.XAACNXM</td><td>17.0</td><td>9.0 GB</td><td>2026-11-10</td><td><a href="/hyperos/prague/stable/OS4.0.6.0.XAACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

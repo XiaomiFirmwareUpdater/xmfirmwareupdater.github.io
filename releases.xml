@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 24 Nov 2026 09:25:12 </lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 15:27:06 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS3.0.302.0.WMFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15C/POCO C85 (dew) - OS4.0.8.0.XBNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dew/</link>
@@ -825,11 +830,6 @@
             <title>Redmi Note 12S (sea) - OS2.0.215.0.VHZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sea/</link>
             <pubDate>Wed, 14 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - OS3.0.6.0.WMFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 14C/17C/A3 Pro/POCO C75 (lake) - OS3.0.307.0.WGTMIXM</title>
