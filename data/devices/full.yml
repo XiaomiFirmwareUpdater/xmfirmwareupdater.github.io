@@ -101559,6 +101559,16 @@
     android: '15.0'
     miui: A15.0.22.0.VGWMIXM
 - branch: stable
+  date: '2026-11-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-24.11.2026/fw_sheng_sheng_global-ota_full-OS3.0.306.0.WNXMIXM-user-16.0-3d1fd917e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/sheng/fw_sheng_sheng_global-ota_full-OS3.0.306.0.WNXMIXM-user-16.0-3d1fd917e9.zip
+  filename: fw_sheng_sheng_global-ota_full-OS3.0.306.0.WNXMIXM-user-16.0-3d1fd917e9.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WNXMIXM
+- branch: stable
   date: '2024-08-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-31.08.2024/fw_sheng_miui_SHENGEEAGlobal_OS1.0.5.0.UNXEUXM_c51a2ae5e9_14.0.zip
@@ -115198,6 +115208,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2026-11-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-24.11.2026/fw_uke_uke_global-ota_full-OS3.0.305.0.WOZMIXM-user-16.0-a69c0adc34.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_global-ota_full-OS3.0.305.0.WOZMIXM-user-16.0-a69c0adc34.zip
+  filename: fw_uke_uke_global-ota_full-OS3.0.305.0.WOZMIXM-user-16.0-a69c0adc34.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WOZMIXM
 - branch: stable
   date: '2026-09-09'
   downloads:
