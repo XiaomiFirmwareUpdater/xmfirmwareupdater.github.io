@@ -3,7 +3,7 @@ title: Xiaomi 17T China HyperOS OS4.0.5.0.XPTCNXM Update
 layout: download
 name: Xiaomi 17T China
 codename: chagall
-permalink: /hyperos/chagall/stable beta/OS4.0.5.0.XPTCNXM/
+permalink: /hyperos/chagall/stable/OS4.0.5.0.XPTCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/chagall/stable beta/OS4.0.5.0.XPTCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.5.0.XPTCNXM Stable Beta Official Update for Xiaomi 17T China (chagall)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.5.0.XPTCNXM Stable Official Update for Xiaomi 17T China (chagall)</h3>
     <h5>This page shows the OS4.0.5.0.XPTCNXM update only. If you're looking for other updates check
         <a href="/hyperos/chagall/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/chagall/stable beta/OS4.0.5.0.XPTCNXM/
                     <h5><b>Version: </b>OS4.0.5.0.XPTCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/chagall/stable beta/OS4.0.5.0.XPTCNXM/
                             aria-expanded="false" aria-controls="chagall_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="chagall_1_changelog">
+                        <p id="changelog_text"></p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 17T China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/chagall/" target="_blank">chagall</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS4.0.5.0.XPTCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>11.4 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-11-05</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">chagall_images_OS4.0.5.0.XPTCNXM_20261105.0000.00_17.0_cn_ff69edf650.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ff69edf650affc322509ce6e246c4758</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.5.0.XPTCNXM/chagall_images_OS4.0.5.0.XPTCNXM_20261105.0000.00_17.0_cn_ff69edf650.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPTCNXM/chagall_images_OS4.0.5.0.XPTCNXM_20261105.0000.00_17.0_cn_ff69edf650.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.5.0.XPTCNXM/chagall_images_OS4.0.5.0.XPTCNXM_20261105.0000.00_17.0_cn_ff69edf650.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.5.0.XPTCNXM/chagall_images_OS4.0.5.0.XPTCNXM_20261105.0000.00_17.0_cn_ff69edf650.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.5.0.XPTCNXM/chagall_images_OS4.0.5.0.XPTCNXM_20261105.0000.00_17.0_cn_ff69edf650.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#chagall_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="chagall_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="chagall_2_changelog">
                         <p id="changelog_text"></p>
                     </div>
                 </li>
