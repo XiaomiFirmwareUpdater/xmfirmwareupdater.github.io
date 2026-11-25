@@ -34546,6 +34546,12 @@
   download: https://bigota.d.miui.com/OS3.0.5.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.5.0.WPZCNXM-user-16.0-a0022f84a2.zip
   name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.5.0.WPZCNXM
+- android: '17.0'
+  codename: zephyr
+  date: '2026-11-25'
+  download: https://bigota.d.miui.com/OS4.0.4.0.XBUMIXM/fw_zephyr_zephyr_global-ota_full-OS4.0.4.0.XBUMIXM-user-17.0-786e0fdc10.zip
+  name: Redmi Note 17 4G
+  version: OS4.0.4.0.XBUMIXM
 - android: '16.0'
   codename: zephyr
   date: '2026-08-27'
