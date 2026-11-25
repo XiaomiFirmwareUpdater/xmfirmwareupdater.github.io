@@ -53,7 +53,8 @@ permalink: /archive/hyperos/aurora/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WNATWXM</td><td>16.0</td><td>7.1 GB</td><td>2026-11-18</td><td><a href="/hyperos/aurora/stable beta/OS3.0.305.0.WNATWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WNAINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-11-18</td><td><a href="/hyperos/aurora/stable beta/OS3.0.305.0.WNAINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WNAINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-11-18</td><td><a href="/hyperos/aurora/stable/OS3.0.305.0.WNAINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WNAINXM</td><td>16.0</td><td>7.7 GB</td><td>2026-11-04</td><td><a href="/hyperos/aurora/stable/OS3.0.305.0.WNAINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WNARUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-11-18</td><td><a href="/hyperos/aurora/stable beta/OS3.0.305.0.WNARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WNATRXM</td><td>16.0</td><td>7.2 GB</td><td>2026-11-18</td><td><a href="/hyperos/aurora/stable beta/OS3.0.305.0.WNATRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WNAEUXM</td><td>16.0</td><td>7.3 GB</td><td>2026-10-27</td><td><a href="/hyperos/aurora/stable/OS3.0.306.0.WNAEUXM/">Download</a></td></tr>
