@@ -3,7 +3,7 @@ title: Redmi K90 / POCO F8 Pro Global HyperOS OS4.0.6.0.XPKMIXM Update
 layout: download
 name: Redmi K90 / POCO F8 Pro Global
 codename: annibale
-permalink: /hyperos/annibale/stable beta/OS4.0.6.0.XPKMIXM/
+permalink: /hyperos/annibale/stable/OS4.0.6.0.XPKMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/annibale/stable beta/OS4.0.6.0.XPKMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.6.0.XPKMIXM Stable Beta Official Update for Redmi K90 / POCO F8 Pro Global (annibale)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.6.0.XPKMIXM Stable Official Update for Redmi K90 / POCO F8 Pro Global (annibale)</h3>
     <h5>This page shows the OS4.0.6.0.XPKMIXM update only. If you're looking for other updates check
         <a href="/hyperos/annibale/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/annibale/stable beta/OS4.0.6.0.XPKMIXM/
                     <h5><b>Version: </b>OS4.0.6.0.XPKMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -79,6 +79,49 @@ permalink: /hyperos/annibale/stable beta/OS4.0.6.0.XPKMIXM/
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="annibale_1_changelog">
                         <p id="changelog_text">[System]<br>Fix: Navigation bar buttons couldn't be tapped<br>[Home screen]<br>Fix: Dynamic icons weren't displayed when closing apps</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K90 / POCO F8 Pro Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/annibale/" target="_blank">annibale</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS4.0.6.0.XPKMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>11.9 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-11-12</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">annibale_global_images_OS4.0.6.0.XPKMIXM_20261112.0000.00_17.0_global_6177f08174.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.6.0.XPKMIXM/annibale_global_images_OS4.0.6.0.XPKMIXM_20261112.0000.00_17.0_global_6177f08174.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.6.0.XPKMIXM/annibale_global_images_OS4.0.6.0.XPKMIXM_20261112.0000.00_17.0_global_6177f08174.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.6.0.XPKMIXM/annibale_global_images_OS4.0.6.0.XPKMIXM_20261112.0000.00_17.0_global_6177f08174.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.6.0.XPKMIXM/annibale_global_images_OS4.0.6.0.XPKMIXM_20261112.0000.00_17.0_global_6177f08174.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.6.0.XPKMIXM/annibale_global_images_OS4.0.6.0.XPKMIXM_20261112.0000.00_17.0_global_6177f08174.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#annibale_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="annibale_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="annibale_2_changelog">
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
