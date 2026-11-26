@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 26 Nov 2026 00:21:21 </lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 06:32:48 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.304.0.WNNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 17 4G (zephyr) - OS4.0.4.0.XBUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zephyr/</link>
@@ -999,11 +1004,6 @@
         <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.305.0.WOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.303.0.WNNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
