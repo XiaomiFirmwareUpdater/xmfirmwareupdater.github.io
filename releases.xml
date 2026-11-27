@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 27 Nov 2026 06:32:43 </lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 08:55:06 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 17/POCO C95 Pro (leedsa) - OS4.0.5.0.XDTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.17.0.UMOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Fri, 27 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1004,11 +1009,6 @@
         <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.305.0.WOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.16.0.UMOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
