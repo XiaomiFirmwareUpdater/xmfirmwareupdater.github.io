@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 26 Nov 2026 19:05:50 </lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 06:32:43 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 17/POCO C95 Pro (leedsa) - OS4.0.5.0.XDTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.304.0.WNNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
@@ -219,11 +224,6 @@
         <item>
             <title>Xiaomi 15T Pro (klimt) - OS3.0.342.0.XOSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.311.0.WDTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
             <pubDate>Wed, 18 Nov 2026 00:00:00 </pubDate>
         </item>
         <item>

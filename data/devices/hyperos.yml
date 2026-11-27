@@ -14962,6 +14962,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
   name: Redmi Note 15 Pro 5G
   version: OS2.0.205.0.VPPCNXM
+- android: '17.0'
+  codename: leedsa
+  date: '2026-11-27'
+  download: https://bigota.d.miui.com/OS4.0.5.0.XDTMIXM/fw_leedsa_leedsa_global-ota_full-OS4.0.5.0.XDTMIXM-user-17.0-28a4430dca.zip
+  name: Redmi 17/POCO C95 Pro
+  version: OS4.0.5.0.XDTMIXM
 - android: '16.0'
   codename: leedsa
   date: '2026-08-28'

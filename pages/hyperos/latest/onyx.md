@@ -64,6 +64,7 @@ permalink: /hyperos/onyx/
 <tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOLIDXM</td><td>16.0</td><td>7.3 GB</td><td>2026-09-20</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOLINXM</td><td>16.0</td><td>9.1 GB</td><td>2026-08-24</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLINXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOLINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-27</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLINXM/">Download</a></td></tr>
+<tr><td>POCO F7 India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOLINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-11-25</td><td><a href="/hyperos/onyx/stable beta/OS3.0.304.0.WOLINXM/">Download</a></td></tr>
 <tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOLRUXM</td><td>16.0</td><td>10.8 GB</td><td>2026-09-04</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLRUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOLRUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-09-20</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLRUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOLRUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-11-18</td><td><a href="/hyperos/onyx/stable beta/OS3.0.304.0.WOLRUXM/">Download</a></td></tr>

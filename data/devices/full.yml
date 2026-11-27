@@ -58399,6 +58399,16 @@
     android: '9.0'
     miui: V10.2.8.0.PFGCNXM
 - branch: stable
+  date: '2026-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_leedsa/releases/download/stable-27.11.2026/fw_leedsa_leedsa_global-ota_full-OS4.0.5.0.XDTMIXM-user-17.0-28a4430dca.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/leedsa/fw_leedsa_leedsa_global-ota_full-OS4.0.5.0.XDTMIXM-user-17.0-28a4430dca.zip
+  filename: fw_leedsa_leedsa_global-ota_full-OS4.0.5.0.XDTMIXM-user-17.0-28a4430dca.zip
+  region: Global
+  versions:
+    android: '17.0'
+    miui: OS4.0.5.0.XDTMIXM
+- branch: stable
   date: '2026-08-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_leedsa/releases/download/stable-28.08.2026/fw_leedsa_leedsa_global-ota_full-OS3.0.308.0.WDTMIXM-user-16.0-5c3f711b6b.zip
