@@ -68,9 +68,8 @@ permalink: /hyperos/onyx/
 <tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOLRUXM</td><td>16.0</td><td>10.8 GB</td><td>2026-09-04</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLRUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOLRUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-09-20</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLRUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOLRUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-11-18</td><td><a href="/hyperos/onyx/stable beta/OS3.0.304.0.WOLRUXM/">Download</a></td></tr>
-<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOLTWXM</td><td>16.0</td><td>8.3 GB</td><td>2026-09-04</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLTWXM/">Download</a></td></tr>
-<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOLTWXM</td><td>16.0</td><td>7.2 GB</td><td>2026-09-20</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLTWXM/">Download</a></td></tr>
-<tr><td>POCO F7 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOLTWXM</td><td>16.0</td><td>7.2 GB</td><td>2026-11-18</td><td><a href="/hyperos/onyx/stable beta/OS3.0.304.0.WOLTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WOLTWXM</td><td>16.0</td><td>8.3 GB</td><td>2026-10-22</td><td><a href="/hyperos/onyx/stable/OS3.0.304.0.WOLTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WOLTWXM</td><td>16.0</td><td>7.2 GB</td><td>2026-11-18</td><td><a href="/hyperos/onyx/stable/OS3.0.304.0.WOLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
